@@ -6,8 +6,11 @@
 		- Hypotropia: eye(s) turn downward
 		- | Tropia      | Description |
 		  | ----------- | ----------- |
-		  | Esotropia     | Title       |
-		  | Exotropia
-		- | Text        |
+		  | Esotropia     | eye(s) turn inward   |
+		  | Exotropia  | Text        |
+		  | Hypertropia| Text        |
+		  |Hypotropia| Text        |
+		-
+		-
 - Cover-uncover
 - Cover-cross-cover
