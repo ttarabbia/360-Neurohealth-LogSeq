@@ -31,8 +31,11 @@
   heading:: true
 	- Posterior Canal
 		- [[Epley manuever]]
-		-
-	- [[Roll manuever]]
+		- [[Semont manuever]]
+	- Horizontal Canal
+		- [[Roll manuever]]
+	- Anterior Canal
+	-
 - Resources
   heading:: true
   background-color:: #497d46
