@@ -17,7 +17,7 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis
   heading:: true
 - Resources
   heading:: true
-  background-color:: #264c9b
+  background-color:: #533e7d
 	- **Therapist Resources**
 		- Paper 1
 		- Additoinal Diagrams
