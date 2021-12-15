@@ -1,0 +1,184 @@
+[{:block/name
+  "../assets/vestibular_migraine_diagnostic_criteria_1639521076649_0.pdf",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "a",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "anterior canal",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "anterior canal bppv",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "audiogram",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "b",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "bilateral vestibular loss",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "bppv",
+  :block/created-at 1639453558478,
+  :block/updated-at 1639453606010}
+ {:block/name "c",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "caloric test",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "card",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "clinical tests",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "concussion",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "contents",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "cvemp",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "dec 13th, 2021",
+  :block/created-at 1639353600000,
+  :block/updated-at 1639353600000}
+ {:block/name "dec 14th, 2021",
+  :block/created-at 1639533540518,
+  :block/updated-at 1639533540518}
+ {:block/name "diagnostic criteria",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "dix hallpike",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "doing",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "done",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "ecog",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "favorites",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "functional movement disorder",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "gaze testing",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "head roll",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "home",
+  :block/created-at 1639516839789,
+  :block/updated-at 1639517056194}
+ {:block/name "horizontal canal",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "horizontal canal bppv",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "in-progress",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "labyrinthitis",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "later",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "medical diagnoses",
+  :block/created-at 1639518323018,
+  :block/updated-at 1639519847005}
+ {:block/name "meniere’s disease",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "now",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "optokinetic",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "ovemp",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "posterior canal",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "posterior canal bppv",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "pure tone audiometry",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "rotary chair",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "saccades",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "sinusoidal harmonic acceleration (sha)",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "smooth pursuit",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "spontaneous nystagmus",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "step test",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "superior semicircular canal dehiscence",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "symptoms",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "todo",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "vemp",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "vestibular diagnostic tests",
+  :block/created-at 1639517170035,
+  :block/updated-at 1639520083192}
+ {:block/name "vestibular migraines",
+  :block/created-at 1639520722387,
+  :block/updated-at 1639521366696}
+ {:block/name "vestibular neuritis",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "vestibular schwannoma",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "vhit",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "vhit lateral",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "vhit vertical",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "vng",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "vor",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "wait",
+  :block/created-at 1639533591072,
+  :block/updated-at 1639533591072}
+ {:block/name "waiting",
+  :block/created-at 1639533591072, 
+  :block/updated-at 1639533591072}]
