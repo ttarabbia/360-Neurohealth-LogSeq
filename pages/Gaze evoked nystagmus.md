@@ -1,4 +1,4 @@
-- Keep patient’s head stationary. Patient looks straight ahead and fixates on a centrally placed target (clinician's nose is a good reference point) Hold 2 targets 30 degrees on each side of your nose. Note: at a minimum, targets should be >38 cm (>15”) as a rule of thumb.
+- Keep patient’s head stationary. Patient looks straight ahead and fixates on a centrally placed target (clinician's nose is a good reference point) Hold 2 targets 30 degrees on each side of your nose. Targets should be >38 cm (>15”) from the patient’s nose
 - Ask the patient to look at the center target for 10 seconds, then look to the right (their right) for 20 seconds and back to center (5 to 10 seconds) before moving their eyes to the left target and hold for 20 seconds.
 - Repeat in the vertical plane
 - A “Normal” test is that no nystagmus is observed. An “Abnormal” finding if nystagmus is observed.
