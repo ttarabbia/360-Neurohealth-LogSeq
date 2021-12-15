@@ -4,7 +4,10 @@
 	- Benign paroxysmal positional vertigo
 	- Due to displacement of otoconia from the otoliths
 	- Otoconia AKA “ear crystals” or “ear rocks” or “particles” –changes canal response as otoconia are 3-30 um1 -- almost 3x heavier than endolymph, Size and amount of dislodged particles vary
-	- High Incidence: head trauma; inner ear infections; age-related factors; vit D deficiency; estrogen deficiency; Meniere’s; migraines; allergies
+	- Prevalence:
+		- The most common vestibular disorder across the lifespan and most recurrent cause of vertigo
+		- Linear increase with age and >60 yo, 7x greater risk
+		- High Incidence: head trauma; inner ear infections; age-related factors; vit D deficiency; estrogen deficiency; Meniere’s; migraines; allergies
 	- Canal involvement
 		- [[Posterior Canal]]
 		- [[Horizontal Canal]]
