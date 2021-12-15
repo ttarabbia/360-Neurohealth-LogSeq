@@ -25,10 +25,9 @@
 	  background-color:: #533e7d
 		- **Therapist Resources**
 			- Diagrams
-			- CCVR course video
-			- PDF/research articles
-			- Youtube video
+			- CCVR Course
+			- Research articles
 		- Patient Resources
 			- HEP
-			- Website
+			- Websites
 			- Educational Handouts
