@@ -6,10 +6,10 @@
 		  | Exotropia  | eyes(s) turn outward   | uncovered eye moves inward |
 		  | Hypertropia| eye(s) turn upward   | uncovered eye moves downward |
 		  |Hypotropia| eye(s) turn downward   | uncovered eye moves upward |
-		  | Esotropia     | eye(s) turn inward   | uncovered eye moves outward | 
-		  | Exotropia  | eyes(s) turn outward   | uncovered eye moves inward |
-		  | Hypertropia| eye(s) turn upward   | uncovered eye moves downward |
-		  |Hypotropia| eye(s) turn downward   | uncovered eye moves upward |
+		  | Esophoria     | eye(s) turn inward   | uncovered eye moves outward | 
+		  | Exophoria  | eyes(s) turn outward   | uncovered eye moves inward |
+		  | Hyperphoria| eye(s) turn upward   | uncovered eye moves downward |
+		  |Hypophoria| eye(s) turn downward   | uncovered eye moves upward |
 		- ![image.png](../assets/image_1639586349446_0.png)
 		-
 - Cover-uncover
