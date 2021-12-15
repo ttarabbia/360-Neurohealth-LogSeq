@@ -6,14 +6,14 @@
 	  background-color:: #264c9b
 	  heading:: true
 	- Clinical Tests
-	  background-color:: #497d46
+	  background-color:: #264c9b
 	  heading:: true
 		- [[Oculomotor]]
 		- [[VOR function]]
 		- [[Static Balance]]
 		- [[Dynamic Balance]]
 	- Diagnostic Tests
-	  background-color:: #978626
+	  background-color:: #264c9b
 	  heading:: true
 		- [[Audiogram]]
 		- [[VNG]]
@@ -22,7 +22,7 @@
 		- [[Rotary Chair]]
 	- Resources
 	  heading:: true
-	  background-color:: #533e7d
+	  background-color:: #497d46
 		- **Therapist Resources**
 			- Diagrams
 			- CCVR Course
