@@ -7,6 +7,8 @@
 - History/Symptoms
   background-color:: #264c9b
   heading:: true
+	- **Positional symptoms:** symptoms occur with getting in and out of bed, turning in bed, bending over, or tilting the head back to lookup to the sky
+	- **
 - Clinical Tests
   background-color:: #264c9b
   heading:: true
