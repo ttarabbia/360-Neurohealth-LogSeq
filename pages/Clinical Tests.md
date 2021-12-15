@@ -3,6 +3,9 @@
 	- [[Gaze evoked nystagmus]]
 	- [[Eye alignment]]
 	- [[Eye range of motion]]
+	- [[Smooth Pursuit]]
+	- [[Saccades]]
+	- [[Convergence]]
 - Static balance
 - Dynamic Balance and Gait
 - Cervical Spine
