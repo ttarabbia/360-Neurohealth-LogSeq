@@ -8,13 +8,32 @@
 	- Clinical Tests
 	  background-color:: #497d46
 	  heading:: true
-		- Oculomotor
-		- VOR function
-		- Static Balance
+		- [[Oculomotor]]
+		- [[VOR function]]
+		- [[Static Balance]]
 		- Dynamic Balance
 	- Diagnostic Tests
 	  background-color:: #978626
 	  heading:: true
+		- [[Pure Tone Audiometry]]
+		- [[VNG]]
+			- [[Spontaneous Nystagmus]]
+			- [[Gaze Testing]]
+			- [[Saccades]]
+			- [[Smooth Pursuit]]
+			- [[Optokinetic]]
+			- [[Dix Hallpike]]
+			- [[Head Roll]]
+			- [[Caloric Test]]
+			- [[VEMP]]
+				- [[cVEMP]]
+				- [[oVEMP]]
+			- [[vHIT]]
+				- [[vHIT lateral]]
+				- [[vHIT vertical]]
+			- [[Rotary Chair]]
+				- [[Sinusoidal Harmonic Acceleration (SHA)]]
+				- [[Step Test]]
 	- Resources
 	  heading:: true
 	  background-color:: #533e7d
