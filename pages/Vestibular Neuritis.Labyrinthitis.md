@@ -1,9 +1,15 @@
 title:: Vestibular Neuritis/Labyrinthitis
 
-- Inferior [[Vestibular Neuritis]]](acute)
-- Inferior [[Vestibular Neuritis]] (compensated)
-- Superior [[Vestibular Neuritis]] (acute)
-- Superior [[Vestibular Neuritis]] (compensated)
+- Variants
+  heading:: true
+	- Inferior [[Vestibular Neuritis]]](acute)
+	- Inferior [[Vestibular Neuritis]] (compensated)
+	- Superior [[Vestibular Neuritis]] (acute)
+	- Superior [[Vestibular Neuritis]] (compensated)
+- Symptoms
+- Tests
+- History
+- Blah
 - Resources
   heading:: true
 	- **Therapist Resources**
@@ -12,4 +18,8 @@ title:: Vestibular Neuritis/Labyrinthitis
 		- CCVR course video
 		- PDF
 		- Youtube video
-	-
+	- Patient Resources
+		- HEP
+		- blah
+		- youtube
+		- Website
