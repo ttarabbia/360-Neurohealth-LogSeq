@@ -1,4 +1,6 @@
 - Keep patient’s head stationary. Patient looks straight ahead. Observe for nystagmus.
 - Record as “negative” for normal or “positive” if nystagmus noted. If present, describe the SHAPE characteristics:
 	- Jerk: distinct fast phase and slow phase
-	- ii. Pendular: no identifiable fast phase
+	- Pendular: no identifiable fast phase
+	- Square-wave-jerk: no slow phases
+	-
