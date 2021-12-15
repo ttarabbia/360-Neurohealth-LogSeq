@@ -2,6 +2,7 @@
 	- [[Spontaneous nystagmus]]
 	- [[Gaze evoked nystagmus]]
 	- [[Eye alignment]]
+	- [[Eye range of motion]]
 - Static balance
 - Dynamic Balance and Gait
 - Cervical Spine
