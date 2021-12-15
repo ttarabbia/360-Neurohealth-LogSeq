@@ -1,3 +1,5 @@
+alias:: acoustic neuroma
+
 - Summary
   background-color:: #264c9b
   heading:: true
