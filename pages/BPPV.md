@@ -9,12 +9,13 @@
 		- [[Posterior Canal]]
 		- [[Horizontal Canal]]
 		- [[Anterior Canal]]
-	- Types based on location of particles
+	- Types based on location of particles (see resources for images)
 		- Canalithiasis (or canalolithiasis) – ampullary arm of canal
 		- Canalithiasis (or canalolithiasis) – non, ampullary arm of canal
 		- Cupulolithiasis – adhered to cupula
 		- Vestibulothiasis – in the short arm
-		- ![image.png](../assets/image_1639605844674_0.png)
+		-
+		- ![image.png](../assets/image_1639605963053_0.png)
 - History/Symptoms
   background-color:: #264c9b
   heading:: true
@@ -55,6 +56,7 @@
   background-color:: #497d46
 	- **Therapist Resources**
 		- Diagrams
+			- ![image.png](../assets/image_1639605844674_0.png)
 		- CCVR Course
 		- Research articles
 	- Patient Resources
