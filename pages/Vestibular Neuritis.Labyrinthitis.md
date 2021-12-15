@@ -2,11 +2,13 @@ title:: Vestibular Neuritis/Labyrinthitis
 alias:: Vestibular Neuritis, Labyrinthitis, Neuritis
 
 - Summary
-- Symptoms
-  background-color:: #497d46
-- History
+  background-color:: #793e3e
+- History/Symptoms
+  background-color:: #264c9b
 - Clinical Tests
+  background-color:: #497d46
 - Diagnostic Tests
+  background-color:: #978626
 - Acute vs Compensated
 - Superior vs Inferior Nerve Involvement
 - Resources
