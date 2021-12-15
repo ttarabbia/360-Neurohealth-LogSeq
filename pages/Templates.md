@@ -33,3 +33,6 @@
 			- HEP
 			- Websites
 			- Educational Handouts
+- Resources
+  background-color:: #497d46
+  heading:: true
