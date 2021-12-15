@@ -1,15 +1,11 @@
 title:: Vestibular Neuritis/Labyrinthitis
 
-- Variants
-  heading:: true
-	- Inferior [[Vestibular Neuritis]]](acute)
-	- Inferior [[Vestibular Neuritis]] (compensated)
-	- Superior [[Vestibular Neuritis]] (acute)
-	- Superior [[Vestibular Neuritis]] (compensated)
 - Symptoms
 - Tests
 - History
-- Blah
+- Acute vs Compensated
+- Sup
+-
 - Resources
   heading:: true
 	- **Therapist Resources**
