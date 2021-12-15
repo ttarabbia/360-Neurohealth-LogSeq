@@ -1,0 +1,1 @@
+- While patient is in sitting and head is stationary, observe for any malalignments of the eyes.
