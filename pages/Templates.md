@@ -17,13 +17,9 @@
 	  heading:: true
 		- [[Audiogram]]
 		- [[VNG]]
-			- [[VEMP]]
-			- [[vHIT]]
-				- [[vHIT lateral]]
-				- [[vHIT vertical]]
-			- [[Rotary Chair]]
-				- [[Sinusoidal Harmonic Acceleration (SHA)]]
-				- [[Step Test]]
+		- [[VEMP]]
+		- [[vHIT]]
+		- [[Rotary Chair]]
 	- Resources
 	  heading:: true
 	  background-color:: #533e7d
