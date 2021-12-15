@@ -1,6 +1,3 @@
-title:: Vestibular Neuritis/Labyrinthitis
-alias:: Vestibular Neuritis, Labyrinthitis, Neuritis
-
 - Summary
   background-color:: #264c9b
   heading:: true
