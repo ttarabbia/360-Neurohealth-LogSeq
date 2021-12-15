@@ -1,9 +1,7 @@
-- At rest- identifies the presence of a tropia
-	- [[Eye alignment at rest]]-
-	- [[Pen light test]]
-	- [[Cover-uncover]]
-	- [[Cover-cross-cover]] Identifies a phoria – binocular vision is not available
-	-
+- [[Eye alignment at rest]] identifies tropias
+- [[Pen light test]] identifies tropias
+- [[Cover-uncover]] identifies tropias
+- [[Cover-cross-cover]] identifies phorias
 - |Eye Alignment     | At Rest | Pen Light | Cover-uncover | Cover-cross-cover |
   | ---------------- | ----------- | --------|  --------| ---------| 
   | Esotropia     | eye(s) turn inward   |  Pen light rests laterally to center of pupil | non-covered eye moves outward | -| 
