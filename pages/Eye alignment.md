@@ -14,3 +14,4 @@
 		-
 - Cover-uncover
 - Cover-cross-cover
+	- is an alignment test to identify a phoria –binocular vision is not available...AKA “breaking fusion”
