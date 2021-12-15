@@ -4,9 +4,10 @@
 		- Exotropia: eyes(s) turn outward
 		- Hypertropia: eye(s) turn upward
 		- Hypotropia: eye(s) turn downward
-		- | Syntax      | Description |
+		- | Tropia      | Description |
 		  | ----------- | ----------- |
-		  | Header      | Title       |
-		  | Paragraph   | Text        |
+		  | Esotropia     | Title       |
+		  | Exotropia
+		- | Text        |
 - Cover-uncover
 - Cover-cross-cover
