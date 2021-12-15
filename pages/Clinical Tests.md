@@ -1,4 +1,8 @@
 - Oculomotor
+	- Eye alignment
+		- at rest
+		- Cover-uncover
+		- Cover-cross-cover
 - Static balance
 - Dynamic Balance and Gait
 - Special tests
