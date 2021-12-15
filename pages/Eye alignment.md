@@ -1,10 +1,10 @@
 - At rest- identifies the presence of a tropia
 	- While patient is in sitting and head is stationary, observe for any malalignments of the eyes.
 	- [[Pen light]]
+	- [[Cover-uncover]]
+	- [[Cover-cross-cover]] Identifies a phoria – binocular vision is not available
 	- ![image.png](../assets/image_1639586349446_0.png)
-- Cover-uncover
-- Cover-cross-cover
-	- Identifies a phoria – binocular vision is not available
+	-
 - |Eye Alignment     | At Rest | Cover-uncover | Cover-cross-cover |
   | ---------------- | ----------- | --------|  --------| 
   | Esotropia     | eye(s) turn inward   | non-covered eye moves outward | -| 
