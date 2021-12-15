@@ -4,4 +4,4 @@
 	- [[Direction]]
 	- [[Intensity]]
 	- [[fixation]]
-- Peripheral vestibular nystagmus is typical horizontal, decreases with fixation, increase
+- [[Peripheral vestibular nystagmus]] typically horizontal, decreases with fixation, increases when patient looks in direction of the fast phase
