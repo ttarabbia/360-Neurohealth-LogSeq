@@ -8,14 +8,13 @@
   background-color:: #264c9b
   heading:: true
 	- **Positional symptoms:** symptoms occur with getting in and out of bed, turning in bed, bending over, or tilting the head back to lookup to the sky
-	- **
+	- **Transient**: symptoms typically last less than 30 seconds at a time
+	-
 - Clinical Tests
   background-color:: #264c9b
   heading:: true
-	- [[Oculomotor]]
-	- [[VOR function]]
-	- [[Static Balance]]
-	- [[Dynamic Balance]]
+	- [[Dix-hallpike test]]
+	-
 - Diagnostic Tests
   background-color:: #264c9b
   heading:: true
