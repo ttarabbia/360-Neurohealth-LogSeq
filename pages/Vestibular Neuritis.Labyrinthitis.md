@@ -6,3 +6,10 @@ title:: Vestibular Neuritis/Labyrinthitis
 - Superior [[Vestibular Neuritis]] (compensated)
 - Resources
   heading:: true
+	- **Therapist Resources**
+		- Paper 1
+		- Additoinal Diagrams
+		- CCVR course video
+		- PDF
+		- Youtube video
+	-
