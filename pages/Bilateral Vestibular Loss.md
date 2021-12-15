@@ -1,9 +1,6 @@
 - Summary
   background-color:: #264c9b
   heading:: true
-	- [[Posterior Canal]]
-	- [[Horizontal Canal]]
-	- [[Anterior Canal]]
 - History/Symptoms
   background-color:: #264c9b
   heading:: true
