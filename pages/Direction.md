@@ -1,0 +1,5 @@
+- Horizontal: left beating (LBN) or right beating (RBN)
+- Vertical: up beating (UBN) or down beating (DBN)
+- Torsional: towards the left/clockwise (CW) or towards the right/counterclockwise (CCW)
+- Any combination of the above, especially in BPPV (e.g., upbeating and torsional towards the right ear (CCW) or upbeating and towards the left ear (CW) but remember BPPV nystagmus is not spontaneous – it is provoked)
+- Pure non-fatiguing vertical, torsional, or direction changing indicates central dysfunction
