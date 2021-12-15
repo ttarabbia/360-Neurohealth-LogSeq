@@ -12,3 +12,7 @@ Alias:: Single Cover, Single cover test, cover uncover, cover-uncover test
 	- Record as “Normal” if the eye remains stationary or “Abnormal” if any of the above corrections are made.
 -
 - ![image.png](../assets/image_1639600236523_0.png)
+- Resources
+  background-color:: #497d46
+  heading:: true
+	- Youtube video demonstration of cover-uncover and cover-cross-cover tests: https://www.youtube.com/watch?v=TxEQWtlXtrI
