@@ -16,6 +16,7 @@
 	- [[Dix-hallpike test]]
 	- [[Modified dix-hallpike]]
 	- [[Roll test]]
+	- [[Bow and Lean test]]
 	- [[Straight Head Hanging Test]]
 - Diagnostic Tests
   background-color:: #264c9b
@@ -28,6 +29,7 @@
 - Treatments
   background-color:: #264c9b
   heading:: true
+	-
 - Resources
   heading:: true
   background-color:: #497d46
