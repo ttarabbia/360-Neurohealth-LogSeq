@@ -4,3 +4,5 @@
 - When performing the alternate cover test it is important to hold the occluder over each eye for at least a few seconds, in order to allow the non-occluded eye enough time to pick up fixation. In general, the
   faster the eyes can recover when the occluder is switched, the better the control of the deviation.
 - ![image.png](../assets/image_1639600256163_0.png)
+- https://www.youtube.com/watch?v=TxEQWtlXtrI
+-
