@@ -3,9 +3,8 @@
 	- [[Pen light test]]
 	- [[Cover-uncover]]
 	- [[Cover-cross-cover]] Identifies a phoria – binocular vision is not available
-	- ![image.png](../assets/image_1639586349446_0.png)
 	-
-- |Eye Alignment     | At Rest | Cover-uncover | Cover-cross-cover |
+- |Eye Alignment     | At Rest | Pen Light Cover-uncover | Cover-cross-cover |
   | ---------------- | ----------- | --------|  --------| 
   | Esotropia     | eye(s) turn inward   | non-covered eye moves outward | -| 
   | Exotropia  | eyes(s) turn outward   | non-covered eye moves inward | -| 
