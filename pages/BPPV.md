@@ -29,7 +29,8 @@
 - Treatments
   background-color:: #264c9b
   heading:: true
-	-
+	- [[Epley manuever]]
+	- [[Roll manuever]]
 - Resources
   heading:: true
   background-color:: #497d46
