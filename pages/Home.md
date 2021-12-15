@@ -2,4 +2,4 @@
 - [[Vestibular Diagnostic Tests]]
 - [[Clinical Tests]]
 - [[Symptoms]]
--
+- [[Vestibular anatomy]]
