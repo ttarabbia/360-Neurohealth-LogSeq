@@ -1,4 +1,3 @@
-- [[Vestibular Neuritis]]]
 - [[Vestibular Neuritis/Labyrinthitis]]
 - [[Meniere’s Disease]]
 - [[Superior semicircular canal dehiscence]]

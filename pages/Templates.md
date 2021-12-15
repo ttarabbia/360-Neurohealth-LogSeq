@@ -1,4 +1,6 @@
 - Medical Diagnoses
+  template:: Medical Diagnoses
+  template-including-parent:: false
 	- Summary
 	  background-color:: #264c9b
 	  heading:: true
