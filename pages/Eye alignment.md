@@ -1,4 +1,8 @@
-- At rest- identify presence of a tropia – both eyes (binocular) are uncovered)
+- At rest- identifies the presence of a tropia
+	- Esotropia: eye(s) turn inward
+	- Exotropia: eyes(s) turn outward
+	- Hypertropia: eye(s) turn upward
+	- Hypotropia: eye(s) turn downward
 	- pen light
 - Cover-uncover
 - Cover-cross-cover
