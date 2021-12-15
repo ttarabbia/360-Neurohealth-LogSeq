@@ -3,11 +3,12 @@ Alias:: Benign paroxysmal positional vertigo
 - Summary
   background-color:: #264c9b
   heading:: true
-	- CAuseDue to displacement of otoconia from the otoliths
-	- Otoconia AKA “ear crystals” or “ear rocks” or “particles” –changes canal response
-		- otoconia are 3-30 um1 -- almost 3x heavier than endolymph, Size and amount of dislodged particles vary
-		- Particles fall through the endolymph, creating a drag
-		- Falling particles push endolymph down which causes cupula deflection resulting in nystagmus
+	- **Cause**:
+		- Due to displacement of otoconia from the otoliths
+		- Otoconia AKA “ear crystals” or “ear rocks” or “particles” –changes canal response
+			- otoconia are 3-30 um1 -- almost 3x heavier than endolymph, Size and amount of dislodged particles vary
+			- Particles fall through the endolymph, creating a drag
+			- Falling particles push endolymph down which causes cupula deflection resulting in nystagmus
 	- **Prevalence:**
 		- The most common vestibular disorder across the lifespan and most recurrent cause of vertigo
 		- Linear increase with age and >60 yo, 7x greater risk
@@ -40,11 +41,7 @@ Alias:: Benign paroxysmal positional vertigo
 - Diagnostic Tests
   background-color:: #264c9b
   heading:: true
-	- [[Audiogram]]
 	- [[VNG]]
-	- [[VEMP]]
-	- [[vHIT]]
-	- [[Rotary Chair]]
 - Treatments
   background-color:: #264c9b
   heading:: true
