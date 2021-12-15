@@ -1,4 +1,4 @@
-- at rest
+- At rest- identify presence of a tropia – both eyes (binocular) are uncovered)
 	- pen light
 - Cover-uncover
 - Cover-cross-cover
