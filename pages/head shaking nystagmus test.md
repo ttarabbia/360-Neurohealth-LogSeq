@@ -4,4 +4,4 @@
 - Passively move their head side to side 20 times (1 rep = right to left). Ask the patient to help you move their head.
 - Abruptly stop the test and observe for nystagmus. If you observe >2 beats then record the direction of the nystagmus.
 - Repeat in the vertical plane (1 rep = upward to downward).
-- Note: vertical nystagmus is considered more central while a unidirectional persistent post-head shaking nystagmus would indicate peripheral vestibular if produced in the horizontal vs central with the vertical test.Remember: the nystagmus is defined by the fast phase the slow phase is the side of the vestibular dysfunction (e.g., right beating nystagmus suggests left hypofunction)
+- Note: vertical nystagmus is considered more central while a unidirectional persistent post-head shaking nystagmus would indicate peripheral vestibular if produced in the horizontal vs central with the vertical test.
