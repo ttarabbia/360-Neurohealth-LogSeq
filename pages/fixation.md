@@ -1,0 +1,1 @@
+- f nystagmus decreases (or ceases) with fixation. Or, this can be stated as nystagmus increases without fixation.ii.Note: using video goggles/Frenzel lenses are the most helpful, considering that testing in room light allows the patient to fixate. In more acute peripheral vestibular events or central pathology, you may be able to observe spontaneous nystagmus without technology.
