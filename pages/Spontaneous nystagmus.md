@@ -5,3 +5,4 @@
 	- [[Intensity]]
 	- [[fixation]]
 - [[Peripheral vestibular nystagmus]] typically horizontal, decreases with fixation, increases when patient looks in direction of the fast phase
+- ![image.png](../assets/image_1639601232446_0.png) (Dr. Bogle, 2019)
