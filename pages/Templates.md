@@ -8,7 +8,10 @@
 	- Clinical Tests
 	  background-color:: #497d46
 	  heading:: true
-		- Ocul
+		- Oculomotor
+		- VOR function
+		- Static Balance
+		- Dynamic Balance
 	- Diagnostic Tests
 	  background-color:: #978626
 	  heading:: true
