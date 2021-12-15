@@ -13,7 +13,8 @@
 		- Canalithiasis (or canalolithiasis) – ampullary arm of canal
 		- Canalithiasis (or canalolithiasis) – non, ampullary arm of canal
 		- Cupulolithiasis – adhered to cupula
-		- Vestibulothiasis – in the short armBasic Terminology & AbbreviationsCanalithiasis – non-ampullaryFigure 1: https://www.dizziness-and-balance.com/disorders/bppv/cupulolithiasis.htmshort arm (between cupula & utricle)56
+		- Vestibulothiasis – in the short arm
+		-
 - History/Symptoms
   background-color:: #264c9b
   heading:: true
