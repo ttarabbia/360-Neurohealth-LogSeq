@@ -4,9 +4,9 @@
 	- [[Cover-uncover]]
 	- [[Cover-cross-cover]] Identifies a phoria – binocular vision is not available
 	-
-- |Eye Alignment     | At Rest | Pen Light Cover-uncover | Cover-cross-cover |
-  | ---------------- | ----------- | --------|  --------| 
-  | Esotropia     | eye(s) turn inward   | non-covered eye moves outward | -| 
+- |Eye Alignment     | At Rest | Pen Light | Cover-uncover | Cover-cross-cover |
+  | ---------------- | ----------- | --------|  --------| ---------| 
+  | Esotropia     | eye(s) turn inward   |  Pen light rests laterally to center of pupil non-covered eye moves outward | -| 
   | Exotropia  | eyes(s) turn outward   | non-covered eye moves inward | -| 
   | Hypertropia | eye(s) turn upward   | non-covered eye moves downward | - | 
   |Hypotropia | eye(s) turn downward   | non-covered eye moves upward | -| 
