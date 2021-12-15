@@ -9,13 +9,18 @@
 		- [[Posterior Canal]]
 		- [[Horizontal Canal]]
 		- [[Anterior Canal]]
+	- Types based on location of particles
+		- Canalithiasis (or canalolithiasis) – ampullary arm of canal
+		- Canalithiasis (or canalolithiasis) – non, ampullary arm of canal
+		- Cupulolithiasis – adhered to cupula
+		- Vestibulothiasis – in the short armBasic Terminology & AbbreviationsCanalithiasis – non-ampullaryFigure 1: https://www.dizziness-and-balance.com/disorders/bppv/cupulolithiasis.htmshort arm (between cupula & utricle)56
 - History/Symptoms
   background-color:: #264c9b
   heading:: true
 	- **Positional symptoms:** symptoms occur with getting in and out of bed, turning in bed, bending over, or tilting the head back to lookup to the sky
 	- **Transient**: symptoms typically last less than 30 seconds at a time
 	- **Vertigo**: typically patients describe a sensation of the world spinning around them
-	- **Reproducible**: symptoms occur consistently with provocative
+	- **Reproducible**: symptoms occur consistently with provocative positions
 	-
 - Clinical Tests
   background-color:: #264c9b
