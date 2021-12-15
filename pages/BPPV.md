@@ -10,6 +10,7 @@
 	- **Positional symptoms:** symptoms occur with getting in and out of bed, turning in bed, bending over, or tilting the head back to lookup to the sky
 	- **Transient**: symptoms typically last less than 30 seconds at a time
 	-
+	-
 - Clinical Tests
   background-color:: #264c9b
   heading:: true
@@ -35,7 +36,8 @@
 	- Horizontal Canal
 		- [[Roll manuever]]
 	- Anterior Canal
-	-
+		- [[Yacovino]]
+		- [[Demi-semont]]
 - Resources
   heading:: true
   background-color:: #497d46
