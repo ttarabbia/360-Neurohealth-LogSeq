@@ -1,6 +1,4 @@
 - Medical Diagnoses
-  template:: Medical Diagnoses
-  template-including-parent:: false
 	- Summary
 	  background-color:: #793e3e
 	  heading:: true
@@ -10,7 +8,19 @@
 	- Clinical Tests
 	  background-color:: #497d46
 	  heading:: true
+		- Ocul
 	- Diagnostic Tests
 	  background-color:: #978626
 	  heading:: true
--
+	- Resources
+	  heading:: true
+	  background-color:: #533e7d
+		- **Therapist Resources**
+			- Diagrams
+			- CCVR course video
+			- PDF/research articles
+			- Youtube video
+		- Patient Resources
+			- HEP
+			- Website
+			- Educational Handouts
