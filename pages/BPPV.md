@@ -1,6 +1,7 @@
 - Summary
   background-color:: #264c9b
   heading:: true
+	- Benign paroxysmal positional vertigo
 	- [[Posterior Canal]]
 	- [[Horizontal Canal]]
 	- [[Anterior Canal]]
