@@ -4,6 +4,7 @@
 	- [[Eye alignment]]
 - Static balance
 - Dynamic Balance and Gait
+- Cervical Spine
 - Special tests
 	- [[head shaking nystagmus test]]
 	- [[skull based vibration nystagmus]]
