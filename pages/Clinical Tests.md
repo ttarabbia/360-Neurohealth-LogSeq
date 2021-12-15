@@ -8,5 +8,5 @@
 - Special tests
 	- [[head shaking nystagmus test]]
 	- [[skull based vibration nystagmus]]
-	- [[pressure induced nystgamus]]
+	- [[Pressure induced nystgamus]]
 	- [[hyperventilation induced nytsagmus]]
