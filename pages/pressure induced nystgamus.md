@@ -2,4 +2,4 @@
 	- This is preferred over the open glottis or “pinched nose” Valsalva, which could increase the CSF pressure but could potentially increase middle ear pressure.
 	- The specificity of the CGV test lacks evidence-based support. Of note, however, is in Dr. Hain’s practice (a world renown specialty clinic in vestibular assessment and treatment, found the following in their patient population:
 		- brief torsional nystagmus during the Valsalva maneuver to be highly specific for superior canal dehiscence.
-		- A strong horizontal nystagmus is suggestive of a horizontal canal fistula such as might result from a cholesteatoma or fenestration surgery.
+		- A strong horizontal nystagmus is suggestive of a horizontal canal fistula such as might result from a cholesteatoma or fenestration surgery
