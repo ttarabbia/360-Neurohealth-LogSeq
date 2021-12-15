@@ -1,6 +1,3 @@
-- [[Posterior Canal]]
-- [[Horizontal Canal]]
-- [[Anterior Canal]]
 - Summary
   background-color:: #264c9b
   heading:: true
