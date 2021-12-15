@@ -4,7 +4,7 @@ title:: Vestibular Neuritis/Labyrinthitis
 - Tests
 - History
 - Acute vs Compensated
-- Sup
+- Superior vs Inferior Nerve Involvement
 -
 - Resources
   heading:: true
