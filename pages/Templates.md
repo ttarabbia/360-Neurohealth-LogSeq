@@ -1,6 +1,6 @@
 - Medical Diagnoses
 	- Summary
-	  background-color:: #793e3e
+	  background-color:: #264c9b
 	  heading:: true
 	- History/Symptoms
 	  background-color:: #264c9b
