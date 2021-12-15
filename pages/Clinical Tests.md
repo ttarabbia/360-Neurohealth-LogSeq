@@ -1,8 +1,6 @@
 - Oculomotor
-	- Eye alignment
-		- at rest
-		- Cover-uncover
-		- Cover-cross-cover
+	- [[Spontaneous nystagmus]]
+	- [[Eye alignment]]
 - Static balance
 - Dynamic Balance and Gait
 - Special tests
