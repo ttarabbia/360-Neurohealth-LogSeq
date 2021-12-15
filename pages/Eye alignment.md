@@ -2,10 +2,10 @@
 	- While patient is in sitting and head is stationary, observe for any malalignments of the eyes.
 		- |Eye Alignment     | At Rest | Cover-uncover | Cover-cross-cover |
 		  | ----------- | ----------- | --------|  --------| 
-		  | Esotropia     | eye(s) turn inward   | uncovered eye moves outward | uncovered eye moves outward | 
-		  | Exotropia  | eyes(s) turn outward   | uncovered eye moves inward |
-		  | Hypertropia| eye(s) turn upward   | uncovered eye moves downward |
-		  |Hypotropia| eye(s) turn downward   | uncovered eye moves upward |
+		  | Esotropia     | eye(s) turn inward   | non-covered eye moves outward | 
+		  | Exotropia  | eyes(s) turn outward   | non-covered eye moves inward |
+		  | Hypertropia| eye(s) turn upward   | non-covered eye moves downward |
+		  |Hypotropia| eye(s) turn downward   | non-covered eye moves upward |
 		  | Esophoria     | not seen at rest | not identified with this test| 
 		  | Exophoria  | not seen at rest   | not identifed with this test|
 		  | Hyperphoria| not seen at rest   | not identified with this test |
