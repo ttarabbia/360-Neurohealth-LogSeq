@@ -5,7 +5,7 @@
 	- Due to displacement of otoconia from the otoliths
 	- Otoconia AKA “ear crystals” or “ear rocks” or “particles” –changes canal response
 	- High Incidence: head trauma; inner ear infections; age-related factors; vit D deficiency; estrogen deficiency; Meniere’s; migraines; allergies
-	- otoconia are 3-30 um1 -- almost 3x heavier than endolymphSize and amount of dislodged particles vary312
+	- otoconia are 3-30 um1 -- almost 3x heavier than endolymph, Size and amount of dislodged particles vary
 	- [[Posterior Canal]]
 	- [[Horizontal Canal]]
 	- [[Anterior Canal]]
@@ -14,6 +14,7 @@
   heading:: true
 	- **Positional symptoms:** symptoms occur with getting in and out of bed, turning in bed, bending over, or tilting the head back to lookup to the sky
 	- **Transient**: symptoms typically last less than 30 seconds at a time
+	- **Vertigo**:
 	-
 	-
 - Clinical Tests
