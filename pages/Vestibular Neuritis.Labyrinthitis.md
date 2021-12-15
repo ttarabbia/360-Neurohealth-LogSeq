@@ -19,13 +19,11 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis
   heading:: true
   background-color:: #533e7d
 	- **Therapist Resources**
-		- Paper 1
-		- Additoinal Diagrams
+		- Diagrams
 		- CCVR course video
-		- PDF
+		- PDF/research articles
 		- Youtube video
 	- Patient Resources
 		- HEP
-		- blah
-		- youtube
 		- Website
+		- Educational Handouts
