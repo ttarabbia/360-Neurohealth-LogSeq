@@ -2,11 +2,13 @@
 	- Summary
 	  background-color:: #533e7d
 	- Symptoms
-	  background-color:: #497d46
-	- History
 	  background-color:: #264c9b
+	- History/Symptoms
+	  background-color:: #793e3e
 	- Clinical Tests
-	  background-color:: #787f97
+	  background-color:: #497d46
 	- Diagnostic Tests
-	  background-color:: #533e7d
+	  background-color:: #978626
+-
+-
 -
