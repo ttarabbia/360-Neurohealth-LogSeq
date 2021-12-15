@@ -14,8 +14,8 @@
   heading:: true
 	- **Positional symptoms:** symptoms occur with getting in and out of bed, turning in bed, bending over, or tilting the head back to lookup to the sky
 	- **Transient**: symptoms typically last less than 30 seconds at a time
-	- **Vertigo**:
-	-
+	- **Vertigo**: typically patients describe a sensation of the world spinning around them
+	- **Reproducible**:
 	-
 - Clinical Tests
   background-color:: #264c9b
