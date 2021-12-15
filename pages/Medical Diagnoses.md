@@ -1,5 +1,5 @@
 - [[Vestibular Neuritis]]]
-- [[Labyrinthitis]]
+- [[Vestibular Neuritis/Labyrinthitis]]
 - [[Meniere’s Disease]]
 - [[Superior semicircular canal dehiscence]]
 - [[BPPV]]
@@ -9,10 +9,6 @@
 - [[Functional Movement Disorder]]
 - [[Concussion]]
 -
-- Inferior [[Vestibular Neuritis]]](acute)
-- Inferior [[Vestibular Neuritis]] (compensated)
-- Superior [[Vestibular Neuritis]] (acute)
-- Superior [[Vestibular Neuritis]] (compensated)
 - [[Labyrinthitis]] (acute)
 - [[Labyrinthitis]] (compensated)
 - [[Meniere’s Disease]] (early stage)
