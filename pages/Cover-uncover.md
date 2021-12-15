@@ -10,3 +10,5 @@ Alias:: Single Cover, Single cover test, cover uncover, cover-uncover test
 	- moves upward (hypotropia)
 	- moves downward (hypertropia)
 	- Record as “Normal” if the eye remains stationary or “Abnormal” if any of the above corrections are made.
+-
+- ![image.png](../assets/image_1639600236523_0.png)
