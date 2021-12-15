@@ -11,23 +11,13 @@
 		- [[Oculomotor]]
 		- [[VOR function]]
 		- [[Static Balance]]
-		- Dynamic Balance
+		- [[Dynamic Balance]]
 	- Diagnostic Tests
 	  background-color:: #978626
 	  heading:: true
-		- [[Pure Tone Audiometry]]
+		- [[Audiogram]]
 		- [[VNG]]
-			- [[Spontaneous Nystagmus]]
-			- [[Gaze Testing]]
-			- [[Saccades]]
-			- [[Smooth Pursuit]]
-			- [[Optokinetic]]
-			- [[Dix Hallpike]]
-			- [[Head Roll]]
-			- [[Caloric Test]]
 			- [[VEMP]]
-				- [[cVEMP]]
-				- [[oVEMP]]
 			- [[vHIT]]
 				- [[vHIT lateral]]
 				- [[vHIT vertical]]
