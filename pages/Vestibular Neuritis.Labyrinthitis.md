@@ -1,4 +1,5 @@
 title:: Vestibular Neuritis/Labyrinthitis
+alias:: Vestibular Neuritis, Labyrinthitis, Neuritis
 
 - Symptoms
 - Tests
