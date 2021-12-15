@@ -5,5 +5,5 @@
 	- [[Intensity]]
 	- [[fixation]]
 - [[Peripheral vestibular nystagmus]] typically horizontal, decreases with fixation, increases when patient looks in direction of the fast phase
-- 360 NEURO HEALTH©2 (Reference: Dr. Bogle, 2019)•If present, make note effects of FIXATIONi.If nystagmus decreases (or ceases) with fixation. Or, this can be stated as nystagmus increases without fixation.ii.Note: using video goggles/Frenzel lenses are the most helpful, considering that testing in room light allows the patient to fixate. In more acute peripheral vestibular events or central pathology, you may be able to observe spontaneous nystagmus without technology. •Refer to chart below for more guidelines (Dr. Bogle, 2019).•Note: If congenital nystagmus is present, the nystagmus will increase w/fixation; decrease w/convergence, and there is typically a “null” point (an area the patient can look and stop the nystagmus).
+- Note: [[congenital nystagmus]] will typically increase w/fixation; decrease with convergence and there is typically a “null” point (an area the patient can look and stop the nystagmus).
 - ![image.png](../assets/image_1639601232446_0.png) (Dr. Bogle, 2019)
