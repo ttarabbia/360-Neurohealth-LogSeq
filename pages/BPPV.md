@@ -14,8 +14,6 @@
 		- Canalithiasis (or canalolithiasis) – non, ampullary arm of canal
 		- Cupulolithiasis – adhered to cupula
 		- Vestibulothiasis – in the short arm
-		-
-		- ![image.png](../assets/image_1639605963053_0.png)
 - History/Symptoms
   background-color:: #264c9b
   heading:: true
@@ -54,9 +52,10 @@
 - Resources
   heading:: true
   background-color:: #497d46
-	- **Therapist Resources**
+	- **Clinician Resources**
 		- Diagrams
 			- ![image.png](../assets/image_1639605844674_0.png)
+			- ![image.png](../assets/image_1639605963053_0.png)
 		- CCVR Course
 		- Research articles
 	- Patient Resources
