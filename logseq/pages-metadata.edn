@@ -1,185 +1,194 @@
 [{:block/name
   "../assets/interacoustics_test_findings_with_vestibular_diagnoses_1639518270575_0.pdf",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name
   "../assets/vestibular_migraine_diagnostic_criteria_1639521076649_0.pdf",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "a",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "anterior canal",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "anterior canal bppv",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "audiogram",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "b",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "bilateral vestibular loss",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "bppv",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "c",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "caloric test",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "card",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "clinical tests",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "concussion",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "contents",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "cvemp",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "dec 14th, 2021",
   :block/created-at 1639533462680,
   :block/updated-at 1639533464369}
  {:block/name "diagnostic criteria",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "dix hallpike",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "doing",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "done",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "ecog",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "favorites",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "functional movement disorder",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "gaze testing",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "head roll",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "home",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "homepage",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "horizontal canal",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "horizontal canal bppv",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "in-progress",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "labyrinthitis",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "later",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "medical diagnoses",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "meniere’s disease",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
+ {:block/name "neuritis",
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "now",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "optokinetic",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "ovemp",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "posterior canal",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "posterior canal bppv",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "pure tone audiometry",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "rotary chair",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "saccades",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "sinusoidal harmonic acceleration (sha)",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "smooth pursuit",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "spontaneous nystagmus",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "step test",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "superior semicircular canal dehiscence",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "symptoms",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
+ {:block/name "templates",
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "todo",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vemp",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vestibular diagnostic tests",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vestibular migraines",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vestibular neuritis",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
+ {:block/name "vestibular neuritis/labyrinthitis",
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vestibular schwannoma",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vhit",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vhit lateral",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vhit vertical",
-  :block/created-at 1639535963181,
-  :block/updated-at 1639535963181}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "vng",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "wait",
-  :block/created-at 1639535963182,
-  :block/updated-at 1639535963182}
+  :block/created-at 1639696411422,
+  :block/updated-at 1639696411422}
  {:block/name "waiting",
-  :block/created-at 1639535963181, 
-  :block/updated-at 1639535963181}]
+  :block/created-at 1639696411422, 
+  :block/updated-at 1639696411422}]
