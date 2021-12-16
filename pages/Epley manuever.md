@@ -1,7 +1,8 @@
 - Prior to performing canalith repositioning maneuvers, provide patient education:
 	- Explain anatomy/physiology of BPPV with a picture of the inner ear
 	- Explain reasoning for performing canalith repositioning maneuvers and high success rate of treatment
-	- Explain
+	- Explain that treatment will reproduce their symptoms but that symptoms will be brief, lasting under 1 minute, and that it's important for them to keep their head in each position as instructed
+- Consider performing a VBI screen to ensure the positioning will be safe
 - **Left epley maneuver:** ![Epley Maneuver Left Flow Diagram.pdf](../assets/Epley_Maneuver_Left_Flow_Diagram_1639693855006_0.pdf)
 	- 1. Start patient in long sitting on mat with head turned 45° toward affected (left) side.
 	  2. Keeping head turned to the left, rapidly bring patient backward to lie onto mat until their head is extended 20-30˚. Watch for nystagmus. Hold in position for at least 10-30 seconds. **(patient will experience brief symptoms of vertigo in this position)**
