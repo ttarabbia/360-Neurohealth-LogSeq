@@ -7,6 +7,7 @@
 	- [[Saccades]]
 	- [[Convergence]]
 	- [[Divergence]]
+	- [[Visual midline shift test]]
 - Static balance
 - Dynamic Balance and Gait
 - Cervical Spine
