@@ -9,6 +9,7 @@
 	- [[Divergence]]
 	- [[Visual midline shift test]]
 	- [[Head thrust test]]
+	- [[Dynamic visual acuity test]]
 - Static balance
 - Dynamic Balance and Gait
 - Cervical Spine
