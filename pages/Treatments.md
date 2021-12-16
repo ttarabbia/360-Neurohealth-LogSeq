@@ -1,4 +1,5 @@
 - [[VOR dysfunction]]
 - [[Visually induced dizziness]]
 - [[Static Balance]]
+- [[Dynamic Balance]]
 -
