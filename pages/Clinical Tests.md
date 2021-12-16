@@ -6,6 +6,7 @@
 	- [[Smooth Pursuit]]
 	- [[Saccades]]
 	- [[Convergence]]
+	- [[Divergence]]
 - Static balance
 - Dynamic Balance and Gait
 - Cervical Spine
