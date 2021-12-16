@@ -18,4 +18,4 @@
 	- [[head shaking nystagmus test]]
 	- [[skull based vibration nystagmus]]
 	- [[Pressure induced nystgamus]]
-	- [[Hyperventil
+	- [[Hyperventilation induced nystagmus]]
