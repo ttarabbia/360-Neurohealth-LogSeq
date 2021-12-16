@@ -10,6 +10,7 @@
 	- [[Visual midline shift test]]
 	- [[Head thrust test]]
 	- [[Dynamic visual acuity test]]
+	- [[VOR suppression test]]
 - Static balance
 - Dynamic Balance and Gait
 - Cervical Spine
@@ -17,4 +18,4 @@
 	- [[head shaking nystagmus test]]
 	- [[skull based vibration nystagmus]]
 	- [[Pressure induced nystgamus]]
-	- [[Hyperventilation induced nystagmus]]
+	- [[Hyperventil
