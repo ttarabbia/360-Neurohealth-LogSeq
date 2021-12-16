@@ -57,6 +57,9 @@ Alias:: Benign paroxysmal positional vertigo
 			- ![BPPV Color Quick Reference Guide .pdf](../assets/BPPV_Color_Quick_Reference_Guide_1639699021390_0.pdf)
 		- CCVR Course
 		- Research articles
+			- ![BPPV Practice Guidelines_AAO-HNS.2017.pdf](../assets/BPPV_Practice_Guidelines_AAO-HNS.2017_1639699140635_0.pdf)
+			- ![AC and ageo-PC.pdf](../assets/AC_and_ageo-PC_1639699150229_0.pdf)
+			-
 	- Patient Resources
 		- HEP
 		- Websites
