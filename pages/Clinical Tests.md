@@ -8,6 +8,7 @@
 	- [[Convergence]]
 	- [[Divergence]]
 	- [[Visual midline shift test]]
+	- [[Head thrust test]]
 - Static balance
 - Dynamic Balance and Gait
 - Cervical Spine
