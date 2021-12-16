@@ -2,4 +2,5 @@
 - [[Visually induced dizziness]]
 - [[Static Balance]]
 - [[Dynamic Balance]]
+- [[Visual retraining]]
 -
