@@ -3,6 +3,7 @@
 	- [[Semont manuever]]
 - Horizontal Canal
 	- [[Roll manuever]]
+	- [[Gufoni manuever]]
 - Anterior Canal
 	- [[Yacovino]]
 	- [[Demi-semont]]
