@@ -7,8 +7,7 @@ Alias:: Benign paroxysmal positional vertigo
 		- Due to [[displacement of otoconia into the semicircular canals from the otoliths]]
 	- **Prevalence:**
 		- The most common vestibular disorder across the lifespan and most recurrent cause of vertigo
-		- Linear increase with age and >60 yo, 7x greater risk
-		- High Incidence: head trauma; inner ear infections; age-related factors; vit D deficiency; estrogen deficiency; Meniere’s; migraines; allergies
+		- [[Risk factors]]
 	- **Canal involvement**
 		- [[Posterior Canal]]
 		- [[Horizontal Canal]]

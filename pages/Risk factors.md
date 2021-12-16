@@ -1,0 +1,2 @@
+- Linear increase with age and >60 yo, 7x greater risk
+- High Incidence: head trauma; inner ear infections; age-related factors; vit D deficiency; estrogen deficiency; Meniere’s; migraines; allergies
