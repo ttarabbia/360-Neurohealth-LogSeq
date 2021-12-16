@@ -4,7 +4,8 @@ Alias:: Benign paroxysmal positional vertigo
   background-color:: #264c9b
   heading:: true
 	- **Cause**:
-		- Due to displacement of otoconia from the otoliths
+		- Due to displacement of otoconia into the semicircular canals from the otoliths
+		- [[A&P]]
 		- Otoconia AKA “ear crystals” or “ear rocks” or “particles” –change canal response
 			- otoconia are 3-30 um1 -- almost 3x heavier than endolymph, Size and amount of dislodged particles vary
 			- Particles fall through the endolymph, creating a drag
