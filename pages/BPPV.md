@@ -4,7 +4,7 @@ Alias:: Benign paroxysmal positional vertigo
   background-color:: #264c9b
   heading:: true
 	- **Cause**:
-		- Due to displacement of otoconia into the semicircular canals from the otoliths
+		- Due to [[displacement of otoconia into the semicircular canals from the otoliths]]
 	- **Prevalence:**
 		- The most common vestibular disorder across the lifespan and most recurrent cause of vertigo
 		- Linear increase with age and >60 yo, 7x greater risk
