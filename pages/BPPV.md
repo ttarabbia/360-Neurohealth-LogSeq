@@ -13,7 +13,7 @@ Alias:: Benign paroxysmal positional vertigo
 		- [[Posterior Canal]]
 		- [[Horizontal Canal]]
 		- [[Anterior Canal]]
-	- **Types based on location of particles** (see resources for images)
+	- **Types based on location of particles**
 		- Canalithiasis (or canalolithiasis) – ampullary arm of canal
 		- Canalithiasis (or canalolithiasis) – non, ampullary arm of canal
 		- Cupulolithiasis – adhered to cupula
