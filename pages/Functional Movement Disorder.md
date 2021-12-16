@@ -29,5 +29,7 @@
 	- Patient Resources
 		- HEP
 		- Websites
-			- Website created by Professor Jon Stone with patient friendly explanations of functional neurological disorders including functional movement dishttps://www.neurosymptoms.org/en_GB/
+			- https://www.neurosymptoms.org/en_GB/
+				- Website created by Professor Jon Stone with patient friendly explanations of functional neurological disorders including functional movement disorder
+			-
 		- Educational Handouts
