@@ -53,7 +53,16 @@ Alias:: Benign paroxysmal positional vertigo
   background-color:: #497d46
 	- **Clinician Resources**
 		- Diagrams
-		-
+		- References
+			- /a
+			- Posterior Canal
+				- [[Epley manuever]]
+				- [[Semont manuever]]
+			- Horizontal Canal
+				- [[Roll manuever]]
+			- Anterior Canal
+				- [[Yacovino]]
+				- [[Demi-semont]]
 		- CCVR Course
 		- Research articles
 	- Patient Resources
