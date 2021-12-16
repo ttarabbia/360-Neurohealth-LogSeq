@@ -1,2 +1,4 @@
 - [[Positional vertigo]]
--
+- [[Head movement related dizziness]]
+- [[Visually induced dizziness]]
+- [[Rocking]]
