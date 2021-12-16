@@ -3,4 +3,4 @@
 - [[Static Balance]]
 - [[Dynamic Balance]]
 - [[Visual retraining]]
--
+- [[Canalith Repositioning manuevers]]
