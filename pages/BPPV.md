@@ -54,8 +54,6 @@ Alias:: Benign paroxysmal positional vertigo
   background-color:: #497d46
 	- **Clinician Resources**
 		- Diagrams
-			- ![image.png](../assets/image_1639605844674_0.png)
-			- ![image.png](../assets/image_1639605963053_0.png)
 		- CCVR Course
 		- Research articles
 	- Patient Resources
