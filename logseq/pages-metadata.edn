@@ -75,9 +75,6 @@
  {:block/name "anterior canal",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
- {:block/name "anterior canal bppv",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
  {:block/name "audiogram",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -97,9 +94,6 @@
   :block/created-at 1639453558478,
   :block/updated-at 1639453606010}
  {:block/name "c",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "caloric test",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "canalith repositioning manuevers",
@@ -152,12 +146,6 @@
  {:block/name "cupulolithiasis",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
- {:block/name "cvemp",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "dec 13th, 2021",
-  :block/created-at 1639353600000,
-  :block/updated-at 1639353600000}
  {:block/name "dec 14th, 2021",
   :block/created-at 1639533540518,
   :block/updated-at 1639533540518}
@@ -178,9 +166,6 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "divergence",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "dix hallpike",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "dix-hallpike test",
@@ -206,7 +191,7 @@
   :block/updated-at 1639705440607}
  {:block/name "eye alignment",
   :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
+  :block/updated-at 1639707742833}
  {:block/name "eye alignment at rest",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -228,18 +213,12 @@
  {:block/name "gaze evoked nystagmus",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
- {:block/name "gaze testing",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
  {:block/name "gufoni manuever",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "head movement related dizziness",
   :block/created-at 1639705440605,
   :block/updated-at 1639705440605}
- {:block/name "head roll",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
  {:block/name "head shaking nystagmus test",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -250,9 +229,6 @@
   :block/created-at 1639516839789,
   :block/updated-at 1639517056194}
  {:block/name "horizontal canal",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "horizontal canal bppv",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "hyperventilation induced nystagmus",
@@ -273,9 +249,6 @@
  {:block/name "mal de debarquement syndrome",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
- {:block/name "medical diagnoses",
-  :block/created-at 1639518323018,
-  :block/updated-at 1639519847005}
  {:block/name "meniere’s disease",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -289,12 +262,6 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "oculomotor",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "optokinetic",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "ovemp",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "pen light",
@@ -315,16 +282,10 @@
  {:block/name "posterior canal",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
- {:block/name "posterior canal bppv",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
  {:block/name "pppd",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "pressure induced nystgamus",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "pure tone audiometry",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "questionnaires",
@@ -363,9 +324,6 @@
  {:block/name "single cover test",
   :block/created-at 1639705440605,
   :block/updated-at 1639705440605}
- {:block/name "sinusoidal harmonic acceleration (sha)",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
  {:block/name "skull based vibration nystagmus",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -376,9 +334,6 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "static balance",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "step test",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "straight head hanging test",
@@ -426,12 +381,6 @@
  {:block/name "vhit",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
- {:block/name "vhit lateral",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "vhit vertical",
-  :block/created-at 1639705440606,
-  :block/updated-at 1639705440606}
  {:block/name "visual midline shift test",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -442,9 +391,6 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "vng",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "vor",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "vor dysfunction",
