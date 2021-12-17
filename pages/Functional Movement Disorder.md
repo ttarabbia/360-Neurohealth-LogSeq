@@ -31,7 +31,7 @@
 			- ![HowDoIExplainaFMD_StoneHoeritzauer.2019 (1).pdf](../assets/HowDoIExplainaFMD_StoneHoeritzauer.2019_(1)_1639700160570_0.pdf)
 			- ![Outpatient PT for FMD_Maggio et al.2019 (1).pdf](../assets/Outpatient_PT_for_FMD_Maggio_et_al.2019_(1)_1639700166767_0.pdf)
 			- ![Clinical Characteristics FMD_Yoshida.2020.pdf](../assets/Clinical_Characteristics_FMD_Yoshida.2020_1639700176966_0.pdf)
-			-
+			- ![Managment of FND_Gilmour et al.2020.pdf](../assets/Managment_of_FND_Gilmour_et_al.2020_1639700184979_0.pdf)
 	- Patient Resources
 		- HEP
 		- Websites
