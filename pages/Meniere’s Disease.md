@@ -26,7 +26,7 @@
 		- Diagrams
 		- CCVR Course
 		- Research articles
-			-
+			- ![CPG Menieres Disease.pdf](../assets/CPG_Menieres_Disease_1639699289846_0.pdf)
 	- Patient Resources
 		- HEP
 		- Websites

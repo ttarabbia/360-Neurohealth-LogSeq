@@ -33,6 +33,7 @@
 		- Diagrams
 		- CCVR Course
 		- Research articles
+			- ![Vestibular migraine the most frequent entity of episodic vertigo.pdf](../assets/Vestibular_migraine_the_most_frequent_entity_of_episodic_vertigo_1639699308935_0.pdf)
 	- Patient Resources
 		- HEP
 		- Websites
