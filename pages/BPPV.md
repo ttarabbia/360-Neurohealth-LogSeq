@@ -59,6 +59,7 @@ Alias:: Benign paroxysmal positional vertigo
 		- Research articles
 			- ![BPPV Practice Guidelines_AAO-HNS.2017.pdf](../assets/BPPV_Practice_Guidelines_AAO-HNS.2017_1639699140635_0.pdf)
 			- ![AC and ageo-PC.pdf](../assets/AC_and_ageo-PC_1639699150229_0.pdf)
+			- ![Anterior Canal-Apogeo PC.pdf](../assets/Anterior_Canal-Apogeo_PC_1639699159441_0.pdf)
 			-
 	- Patient Resources
 		- HEP
