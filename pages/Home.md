@@ -1,5 +1,6 @@
-- [[Medical Diagnoses]]
+- [[Diagnoses]]
 - [[Vestibular Diagnostic Tests]]
 - [[Clinical Tests]]
 - [[Symptoms]]
--
+- [[Treatments]]
+- [[Vestibular anatomy]]

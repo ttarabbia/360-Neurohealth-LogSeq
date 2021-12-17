@@ -1,0 +1,8 @@
+- While patient is in sitting and head is stationary, observe for any malalignments of the eyes.
+- To identify presence of a tropia – both eyes (binocular) are uncovered
+	- Esotropia: eye(s) turn inward
+	- Exotropia: eyes(s) turn outward
+	- Hypertropia: eye(s) turn upward
+	- Hypotropia: eye(s) turn downward
+- Note: You will have to perform an Alternating Cover (or Cover Cross Cover test to determine if a phoria is present – discussed below)
+- ![image.png](../assets/image_1639586349446_0.png)

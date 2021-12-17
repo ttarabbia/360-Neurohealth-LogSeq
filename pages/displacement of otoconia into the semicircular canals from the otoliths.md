@@ -1,0 +1,4 @@
+- Otoconia AKA “ear crystals” or “ear rocks” or “particles” –change canal response
+	- otoconia are 3-30 um1 -- almost 3x heavier than endolymph, Size and amount of dislodged particles vary
+	- Particles fall through the endolymph, creating a drag
+	- Falling particles push endolymph down which causes cupula deflection resulting in nystagmus
