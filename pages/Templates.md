@@ -37,3 +37,6 @@
   background-color:: #497d46
   heading:: true
   template:: Resources
+-
+- Associated Treatments
+- Associated Pathologies
