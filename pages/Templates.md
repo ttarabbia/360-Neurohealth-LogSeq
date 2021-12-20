@@ -38,6 +38,8 @@
   heading:: true
   template:: Resources
 - Clinical Tests template
+  template:: Clinical Tests
+  template-including-parent:: false
 	- Associated Treatments
 	  heading:: true
 	  background-color:: #264c9b
