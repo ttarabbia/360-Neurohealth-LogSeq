@@ -61,4 +61,6 @@
 	- Associated Diagnoses
 	  background-color:: #264c9b
 	  heading:: true
--
+- Diagnostic Testing
+	- Indications for performing
+	- Interpretation
