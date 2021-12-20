@@ -64,3 +64,5 @@
 - Diagnostic Testing
 	- Indications for performing
 	- Interpretation
+- Treatments
+	-
