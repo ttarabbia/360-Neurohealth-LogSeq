@@ -3,4 +3,3 @@
 - [[Clinical Tests]]
 - [[Symptoms]]
 - [[Treatments]]
-- [[Vestibular anatomy]]
