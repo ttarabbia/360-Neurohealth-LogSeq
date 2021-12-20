@@ -85,28 +85,28 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "bilateral vestibular loss",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "bow and lean test",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "bppv",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "c",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "canalith repositioning manuevers",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name
   "canalithiasis (or canalolithiasis) – ampullary arm of canal",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name
   "canalithiasis (or canalolithiasis) – non, ampullary arm of canal",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "canalithiasis – ampullary arm of canal",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
@@ -114,11 +114,11 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "clinical tests",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "concussion",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "congenital nystagmus",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
@@ -126,8 +126,8 @@
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "convergence",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "cover cross cover test",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
@@ -135,17 +135,17 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "cover-cross-cover",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "cover-uncover",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "cover-uncover test",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "cupulolithiasis",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "dec 14th, 2021",
   :block/created-at 1639533462680,
   :block/updated-at 1639533464369}
@@ -153,24 +153,24 @@
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "diagnoses",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "diagnostic criteria",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "direction",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name
   "displacement of otoconia into the semicircular canals from the otoliths",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "divergence",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "dix-hallpike test",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "doing",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
@@ -181,23 +181,23 @@
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "dynamic visual acuity test",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "ecog",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "epley manuever",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149060,
+  :block/updated-at 1640039149060}
  {:block/name "eye alignment",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "eye alignment at rest",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "eye range of motion",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "eye rom",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
@@ -205,26 +205,26 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "fixation",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "functional movement disorder",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "gaze evoked nystagmus",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "gufoni manuever",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "head movement related dizziness",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "head shaking nystagmus test",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "head thrust test",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "home",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
@@ -232,14 +232,14 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "hyperventilation induced nystagmus",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149060,
+  :block/updated-at 1640039149060}
  {:block/name "in-progress",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "intensity",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "labyrinthitis",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
@@ -250,8 +250,8 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "meniere’s disease",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149060,
+  :block/updated-at 1640039149060}
  {:block/name "modified dix-hallpike",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
@@ -265,17 +265,17 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "pen light",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "pen light test",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "peripheral vestibular nystagmus",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "persistent postural-perceptual dizziness",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "positional vertigo",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
@@ -286,38 +286,38 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "pressure induced nystgamus",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "questionnaires",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "resources",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "risk factors",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149061,
+  :block/updated-at 1640039149062}
  {:block/name "rocking",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "roll manuever",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "roll test",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "rotary chair",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "saccades",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "semont manuever",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "shape",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "single cover",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
@@ -325,35 +325,35 @@
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "skull based vibration nystagmus",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "smooth pursuit",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "spontaneous nystagmus",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "static balance",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "straight head hanging test",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "superior semicircular canal dehiscence",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "symptoms",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "templates",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149060,
+  :block/updated-at 1640039149060}
  {:block/name "todo",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "treatments",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "vemp",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
@@ -361,29 +361,29 @@
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
  {:block/name "vestibular diagnostic tests",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "vestibular migraines",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "vestibular neuritis",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "vestibular neuritis/labyrinthitis",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "vestibular schwannoma",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "vestibulothiasis",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149063,
+  :block/updated-at 1640039149063}
  {:block/name "vhit",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "visual midline shift test",
-  :block/created-at 1640038965299,
-  :block/updated-at 1640038965299}
+  :block/created-at 1640039149051,
+  :block/updated-at 1640039149051}
  {:block/name "visual retraining",
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
@@ -400,8 +400,8 @@
   :block/created-at 1639704192721,
   :block/updated-at 1639704192721}
  {:block/name "vor suppression test",
-  :block/created-at 1640038965300,
-  :block/updated-at 1640038965300}
+  :block/created-at 1640039149062,
+  :block/updated-at 1640039149062}
  {:block/name "wait",
   :block/created-at 1639704192722,
   :block/updated-at 1639704192722}
