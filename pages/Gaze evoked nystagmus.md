@@ -6,3 +6,12 @@
 - Remember: it is important to differentiate GEN from endpoint (beyond 30 degrees) and a “leak-through” spontaneous nystagmus which is peripheral, vestibular in nature and follows Alexander’s Law (for example: right beating nystagmus present in right gaze only).
 -
   <p><a href="https://www.360neurohealth.com/courses/certificate-of-competency-in-vestibular-rehabilitation-course-ccvr/lectures/36795242?wvideo=xx70d4pewv"><img src="https://embed-ssl.wistia.com/deliveries/f168ff3df5238ff7a2d2fdfe88fbfc36b87e8d11.jpg?image_crop_resized=800x450&amp;image_play_button_size=2x&amp;image_play_button=1&amp;image_play_button_color=1A9DCEe0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.360neurohealth.com/courses/certificate-of-competency-in-vestibular-rehabilitation-course-ccvr/lectures/36795242?wvideo=xx70d4pewv">Lab Demo Videos | 360 Neuro Health</a></p>
+- Associated Treatments
+  heading:: true
+  background-color:: #264c9b
+- Associated Impairments
+  background-color:: #264c9b
+  heading:: true
+- Associated Diagnoses
+  background-color:: #264c9b
+  heading:: true
