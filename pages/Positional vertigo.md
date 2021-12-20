@@ -1,9 +1,6 @@
 - Associated Treatments
   heading:: true
   background-color:: #264c9b
-- Associated Impairments
-  background-color:: #264c9b
-  heading:: true
-- Associated Diagnoses
+- Associated Impairments/Diagnoses
   background-color:: #264c9b
   heading:: true
