@@ -37,6 +37,10 @@
   background-color:: #497d46
   heading:: true
   template:: Resources
--
-- Associated Treatments
-- Associated Pathologies
+- Clinical Tests template
+	- Associated Treatments
+	  heading:: true
+	  background-color:: #264c9b
+	- Associated Pathologies
+	  heading:: true
+	  background-color:: #264c9b
