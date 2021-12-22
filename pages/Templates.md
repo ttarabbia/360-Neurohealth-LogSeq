@@ -7,21 +7,11 @@
 	  heading:: true
 	- # Clinical Tests
 	  heading:: true
-	- Diagnostic Tests
-	  background-color:: #264c9b
+	- # Diagnostic Tests
 	  heading:: true
-		- [[Audiogram]]
-		- [[VNG]]
-		- [[VEMP]]
-		- [[vHIT]]
-		- [[Rotary Chair]]
-	- Resources
+	- # Resources
 	  heading:: true
-	  background-color:: #497d46
 		- **Therapist Resources**
-			- Diagrams
-			- CCVR Course
-			- Research articles
 		- Patient Resources
 			- HEP
 			- Websites
