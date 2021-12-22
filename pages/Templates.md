@@ -24,8 +24,12 @@
   template:: Diagnostic Testing
   template-including-parent:: false
 	- # Test Description
-	- # Indications for performing
+	- # Indications for Performing
 	- # Interpretation
 	- # Samples
 - Treatments
+	- # Indications to Perform
+	-
+	-
+	-
 	-
