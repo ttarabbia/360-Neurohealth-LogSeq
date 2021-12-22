@@ -21,8 +21,7 @@
   template-including-parent:: false
 	- # Associated Treatments
 	  heading:: true
-	- Associated Impairments
-	  background-color:: #264c9b
+	- # Associated Impairments/Diagnoses
 	  heading:: true
 	- Associated Diagnoses
 	  background-color:: #264c9b
