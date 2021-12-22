@@ -1,32 +1,13 @@
-- Summary
-  background-color:: #264c9b
+- # Summary
   heading:: true
-- History/Symptoms
-  background-color:: #264c9b
+- # History/Symptoms
   heading:: true
-- Clinical Tests
-  background-color:: #264c9b
+- # Clinical Tests
   heading:: true
-	- [[Oculomotor]]
-	- [[VOR function]]
-	- [[Static Balance]]
-	- [[Dynamic Balance]]
-- Diagnostic Tests
-  background-color:: #264c9b
+- # Diagnostic Tests
   heading:: true
-	- [[Audiogram]]
-	- [[VNG]]
-	- [[VEMP]]
-	- [[vHIT]]
-	- [[Rotary Chair]]
-- Resources
+- # Treatments
+- # Resources
   heading:: true
-  background-color:: #497d46
 	- **Therapist Resources**
-		- Diagrams
-		- CCVR Course
-		- Research articles
-	- Patient Resources
-		- HEP
-		- Websites
-		- Educational Handouts
+	- **Patient Resources**

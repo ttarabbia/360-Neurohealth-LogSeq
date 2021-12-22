@@ -9,6 +9,7 @@
 	  heading:: true
 	- # Diagnostic Tests
 	  heading:: true
+	- # Treatments
 	- # Resources
 	  heading:: true
 		- **Therapist Resources**
