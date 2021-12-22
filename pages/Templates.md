@@ -28,7 +28,10 @@
 	- # Interpretation
 	- # Samples
 - Treatments
+  template:: Treatment
 	- # Indications to Perform
+	- # Instructions to Perform
+	- # Images/ Diagrams/ Videos
 	-
 	-
 	-
