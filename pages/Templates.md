@@ -13,12 +13,10 @@
 	  heading:: true
 		- **Therapist Resources**
 		- Patient Resources
-- # Resources
-  heading:: true
-  template:: Resources
 - Symptoms template
   template:: symptoms
   template-including-parent:: false
+	- # Clarifying Subjective Questions
 	- # Associated Impairments/Diagnoses
 	  heading:: true
 	- # Associated Treatments
