@@ -37,18 +37,6 @@
   background-color:: #497d46
   heading:: true
   template:: Resources
-- Clinical Tests template
-  template:: Clinical Tests
-  template-including-parent:: false
-	- Associated Treatments
-	  heading:: true
-	  background-color:: #264c9b
-	- Associated Impairments
-	  background-color:: #264c9b
-	  heading:: true
-	- Associated Diagnoses
-	  background-color:: #264c9b
-	  heading:: true
 - Symptoms template
   template:: symptoms
   template-including-parent:: false
@@ -65,4 +53,5 @@
 	- Indications for performing
 	- Interpretation
 - Treatments
+	-
 	-
