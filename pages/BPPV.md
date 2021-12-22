@@ -1,7 +1,6 @@
 Alias:: Benign paroxysmal positional vertigo
 
-- Summary
-  background-color:: #264c9b
+- # Summary
   heading:: true
 	- **Cause**:
 		- Due to [[displacement of otoconia into the semicircular canals from the otoliths]]
@@ -17,13 +16,26 @@ Alias:: Benign paroxysmal positional vertigo
 		- [[Canalithiasis (or canalolithiasis) – non, ampullary arm of canal]]
 		- [[Cupulolithiasis]] – adhered to cupula
 		- [[Vestibulothiasis]] – in the short arm
-- History/Symptoms
-  background-color:: #264c9b
+- # History/Symptoms
   heading:: true
 	- **Positional symptoms:** symptoms occur with getting in and out of bed, turning in bed, bending over, or tilting the head back to lookup to the sky
 	- **Transient**: symptoms typically last less than 30 seconds at a time
 	- **Vertigo**: typically patients describe a sensation of the world spinning around them
 	- **Reproducible**: symptoms occur consistently with provocative positions
+- # Clinical Tests
+  heading:: true
+- # Diagnostic Tests
+  heading:: true
+- # Resources
+  heading:: true
+	- **Therapist Resources**
+	- **Patient Resources**
+- Summary
+  background-color:: #264c9b
+  heading:: true
+- History/Symptoms
+  background-color:: #264c9b
+  heading:: true
 	-
 - Clinical Tests
   background-color:: #264c9b
