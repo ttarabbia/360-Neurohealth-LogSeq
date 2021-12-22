@@ -12,7 +12,7 @@
 	- # Resources
 	  heading:: true
 		- **Therapist Resources**
-		- Patient Resources
+		- **Patient Resources**
 - Symptoms 
   template:: symptoms
   template-including-parent:: false
