@@ -13,19 +13,14 @@
 	  heading:: true
 		- **Therapist Resources**
 		- Patient Resources
-			- HEP
-			- Websites
-			- Educational Handouts
-- Resources
-  background-color:: #497d46
+- # Resources
   heading:: true
   template:: Resources
 - Symptoms template
   template:: symptoms
   template-including-parent:: false
-	- Associated Treatments
+	- # Associated Treatments
 	  heading:: true
-	  background-color:: #264c9b
 	- Associated Impairments
 	  background-color:: #264c9b
 	  heading:: true
