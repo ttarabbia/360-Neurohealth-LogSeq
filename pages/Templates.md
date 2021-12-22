@@ -32,7 +32,8 @@
 	- # Indications to Perform
 	- # Instructions to Perform
 	- # Images/ Diagrams/ Videos
-	-
-	-
-	-
+- Clinical Tests
+	- # Instructions
+	- # Images/ Diagrams/ Videos
+	- # Positive Test Findings
 	-
