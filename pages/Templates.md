@@ -1,19 +1,12 @@
 - Medical Diagnoses
   template:: Medical Diagnoses
   template-including-parent:: false
-	- Summary
-	  background-color:: #264c9b
+	- # Summary
 	  heading:: true
-	- History/Symptoms
-	  background-color:: #264c9b
+	- # History/Symptoms
 	  heading:: true
-	- Clinical Tests
-	  background-color:: #264c9b
+	- # Clinical Tests
 	  heading:: true
-		- [[Oculomotor]]
-		- [[VOR function]]
-		- [[Static Balance]]
-		- [[Dynamic Balance]]
 	- Diagnostic Tests
 	  background-color:: #264c9b
 	  heading:: true
