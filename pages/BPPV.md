@@ -47,6 +47,6 @@ Alias:: Benign paroxysmal positional vertigo
 			- ![BPPV Color Quick Reference Guide .pdf](../assets/BPPV_Color_Quick_Reference_Guide_1639699021390_0.pdf)
 		- Research Articles
 			- ![BPPV Practice Guidelines_Bhattacharyya_2017.pdf](../assets/BPPV_Practice_Guidelines_AAO-HNS.2017_1639699140635_0.pdf)
-			- ![Apogeotropic Posterior Semicircular Canal Benign ParoxysmalPositional Vertigo: Some Clinical and Therapeutic Considerations.pdf](../assets/AC_and_ageo-PC_1639699150229_0.pdf)
+			- ![Apogeotropic Posterior Semicircular Canal Benign Paroxysmal Positional Vertigo: Some Clinical and Therapeutic Considerations_ Vannucch_2015.pdf](../assets/AC_and_ageo-PC_1639699150229_0.pdf)
 			- ![Anterior Canal-Apogeo PC.pdf](../assets/Anterior_Canal-Apogeo_PC_1639699159441_0.pdf)
 	- **Patient Resources**
