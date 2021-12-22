@@ -33,7 +33,9 @@
 	- # Instructions to Perform
 	- # Images/ Diagrams/ Videos
 - Clinical Tests
+  template:: Clinical Tests
+  template-including-parent:: false
 	- # Instructions
 	- # Images/ Diagrams/ Videos
-	- # Positive Test Findings
+	- # Interpretation
 	-
