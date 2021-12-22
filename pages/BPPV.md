@@ -40,7 +40,7 @@ Alias:: Benign paroxysmal positional vertigo
 	- Anterior Canal
 		- [[Yacovino]]
 		- [[Demi-semont]]
-- # Resources
+- # [[]]Resources
   heading:: true
 	- **Therapist Resources**
 		- Quick References
