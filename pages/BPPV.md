@@ -31,6 +31,15 @@ Alias:: Benign paroxysmal positional vertigo
 	- [[Straight Head Hanging Test]]
 - # Diagnostic Tests
   heading:: true
+- # Treatments
+	- Posterior Canal
+		- [[Epley manuever]]
+		- [[Semont manuever]]
+	- Horizontal Canal
+		- [[Roll manuever]]
+	- Anterior Canal
+		- [[Yacovino]]
+		- [[Demi-semont]]
 - # Resources
   heading:: true
 	- **Therapist Resources**
@@ -52,14 +61,6 @@ Alias:: Benign paroxysmal positional vertigo
 - Treatments
   background-color:: #264c9b
   heading:: true
-	- Posterior Canal
-		- [[Epley manuever]]
-		- [[Semont manuever]]
-	- Horizontal Canal
-		- [[Roll manuever]]
-	- Anterior Canal
-		- [[Yacovino]]
-		- [[Demi-semont]]
 - Resources
   heading:: true
   background-color:: #497d46
@@ -72,7 +73,6 @@ Alias:: Benign paroxysmal positional vertigo
 			- ![BPPV Practice Guidelines_AAO-HNS.2017.pdf](../assets/BPPV_Practice_Guidelines_AAO-HNS.2017_1639699140635_0.pdf)
 			- ![AC and ageo-PC.pdf](../assets/AC_and_ageo-PC_1639699150229_0.pdf)
 			- ![Anterior Canal-Apogeo PC.pdf](../assets/Anterior_Canal-Apogeo_PC_1639699159441_0.pdf)
-			- /as
 	- Patient Resources
 		- HEP
 		- Websites
