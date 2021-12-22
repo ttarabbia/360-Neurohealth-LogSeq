@@ -1,24 +1,15 @@
-- Summary
-  background-color:: #264c9b
+- # Summary
   heading:: true
-- History/Symptoms
-  background-color:: #264c9b
+- # History/Symptoms
   heading:: true
-- Clinical Tests
-  background-color:: #264c9b
+- # Clinical Tests
   heading:: true
-	- [[Oculomotor]]
-	- [[VOR function]]
-	- [[Static Balance]]
-	- [[Dynamic Balance]]
-- Diagnostic Tests
-  background-color:: #264c9b
+- # Diagnostic Tests
   heading:: true
-	- [[Audiogram]]
-	- [[VNG]]
-	- [[VEMP]]
-	- [[vHIT]]
-	- [[Rotary Chair]]
+- # Resources
+  heading:: true
+	- **Therapist Resources**
+	- **Patient Resources**
 - Resources
   heading:: true
   background-color:: #497d46
@@ -26,7 +17,7 @@
 		- Diagrams
 		- CCVR Course
 		- Research articles
-			- ![CPG Menieres Disease.pdf](../assets/CPG_Menieres_Disease_1639699289846_0.pdf)
+			-
 	- Patient Resources
 		- HEP
 		- Websites
