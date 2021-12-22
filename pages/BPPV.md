@@ -50,6 +50,6 @@ Alias:: Benign paroxysmal positional vertigo
 				- ![BPPV Practice Guidelines_Bhattacharyya_2017.pdf](../assets/BPPV_Practice_Guidelines_AAO-HNS.2017_1639699140635_0.pdf)
 			- [[Apogeotropic Posterior Canal]], [[Atypical BPPV]]
 				- ![Apogeotropic Posterior Semicircular Canal Benign Paroxysmal Positional Vertigo_Vannucchi_2015.pdf](../assets/AC_and_ageo-PC_1639699150229_0.pdf)
-			-
-				- Anterior canal BPPV and Apogeotropic posterior canal BPPV_Califano_2013.pdf](../assets/Anterior_Canal-Apogeo_PC_1639699159441_0.pdf)
+			- [[Anterior Canal]] [[Apogeotropic Posterior Canal]]
+				- ![Anterior canal BPPV and Apogeotropic posterior canal BPPV_Califano_2013.pdf](../assets/Anterior_Canal-Apogeo_PC_1639699159441_0.pdf)
 	- **Patient Resources**
