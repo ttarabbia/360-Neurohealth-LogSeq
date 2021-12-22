@@ -21,11 +21,11 @@
 	  heading:: true
 	- # Associated Treatments
 - Diagnostic Testing
-	-
+  template:: Diagnostic Testing
+  template-including-parent:: false
+	- # Test Description
 	- # Indications for performing
 	- # Interpretation
 	- # Samples
 - Treatments
-	-
-	-
 	-
