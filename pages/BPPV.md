@@ -24,6 +24,11 @@ Alias:: Benign paroxysmal positional vertigo
 	- **Reproducible**: symptoms occur consistently with provocative positions
 - # Clinical Tests
   heading:: true
+	- [[Dix-hallpike test]]
+	- [[Modified dix-hallpike]]
+	- [[Roll test]]
+	- [[Bow and Lean test]]
+	- [[Straight Head Hanging Test]]
 - # Diagnostic Tests
   heading:: true
 - # Resources
@@ -40,11 +45,6 @@ Alias:: Benign paroxysmal positional vertigo
 - Clinical Tests
   background-color:: #264c9b
   heading:: true
-	- [[Dix-hallpike test]]
-	- [[Modified dix-hallpike]]
-	- [[Roll test]]
-	- [[Bow and Lean test]]
-	- [[Straight Head Hanging Test]]
 - Diagnostic Tests
   background-color:: #264c9b
   heading:: true
