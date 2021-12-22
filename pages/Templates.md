@@ -13,7 +13,7 @@
 	  heading:: true
 		- **Therapist Resources**
 		- Patient Resources
-- Symptoms template
+- Symptoms 
   template:: symptoms
   template-including-parent:: false
 	- # Clarifying Subjective Questions
@@ -21,8 +21,10 @@
 	  heading:: true
 	- # Associated Treatments
 - Diagnostic Testing
-	- Indications for performing
-	- Interpretation
+	-
+	- # Indications for performing
+	- # Interpretation
+	- # Samples
 - Treatments
 	-
 	-
