@@ -9,16 +9,5 @@
 - # Resources
   heading:: true
 	- **Therapist Resources**
+		- ![CPG Menieres Disease.pdf](../assets/CPG_Menieres_Disease_1639699289846_0.pdf)
 	- **Patient Resources**
-- Resources
-  heading:: true
-  background-color:: #497d46
-	- **Therapist Resources**
-		- Diagrams
-		- CCVR Course
-		- Research articles
-			-
-	- Patient Resources
-		- HEP
-		- Websites
-		- Educational Handouts
