@@ -6,7 +6,7 @@ file:: [FND_Opinion_Paper_Kompoliti.2017_1639700154921_0.pdf](../assets/FND_Opin
   ls-type:: annotation
   hl-page:: 2
   id:: 61c3c297-3edc-409c-8c2e-1a69930f0a18
-- “What we need to convey to patients is that functional movement disorders are not ‘in their head,’ but are, in fact, in their brain.” However, rather than being what Dr. Kompoliti calls “hardware” problems, functional movement disorders are more akin to problems with “software.” “When someone has a stroke, you can see where the hardware is damaged. Here you can’t see anything structurally wrong with the hardware, but the software—i.e. the way the differ-ent parts of the brain communicate with each other—does “It’s Not in Your Head”: Navigating the Challenges of a Functional Movement Disorder DiagnosisA Q&A with Katie Kompoliti, MD“What we need to convey to patients is that functional movement disorders are not ‘in their head,’ but are, in fact, in their brain.”MARCH 2017PRACTICAL NEUROLOGY23COVER STORYnot work as it should.” 
+- “What we need to convey to patients is that functional movement disorders are not ‘in their head,’ but are, in fact, in their brain.” However, rather than being what Dr. Kompoliti calls “hardware” problems, functional movement disorders are more akin to problems with “software.” “When someone has a stroke, you can see where the hardware is damaged. Here you can’t see anything structurally wrong with the hardware, but the software—i.e. the way the differ-ent parts of the brain communicate with each other—does
   ls-type:: annotation
   hl-page:: 1
-  id:: 61c3c325-b2d6-499c-ae94-2c44c3120e61
+  id:: 61c3c37e-57a8-4397-8ad4-3b705641e22a
