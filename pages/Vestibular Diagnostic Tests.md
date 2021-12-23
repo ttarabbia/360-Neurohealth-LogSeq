@@ -6,15 +6,11 @@
   background-color:: #264c9b
 - [[Audiogram]]
   heading:: true
-  background-color:: #264c9b
 - [[vHIT]]
   heading:: true
-  background-color:: #264c9b
 - [[ECOG]]
   heading:: true
-  background-color:: #264c9b
 - [[Rotary chair]]
-  background-color:: #264c9b
   heading:: true
 - [[Resources]]
   background-color:: #497d46
