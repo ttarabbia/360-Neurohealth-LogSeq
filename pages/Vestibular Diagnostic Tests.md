@@ -1,18 +1,15 @@
-- [[VNG]]
-  background-color:: #264c9b
+- ## [[VNG]]
   heading:: true
-- [[VEMP]]
+- ## [[VEMP]]
   heading:: true
-  background-color:: #264c9b
-- [[Audiogram]]
+- ## [[Audiogram]]
   heading:: true
-- [[vHIT]]
+- ## [[vHIT]]
   heading:: true
-- [[ECOG]]
+- ## [[ECOG]]
   heading:: true
-- [[Rotary chair]]
+- ## [[Rotary chair]]
   heading:: true
 - [[Resources]]
-  background-color:: #497d46
   heading:: true
 	- Interacoustics Resource- Expected diagnostic test findings with vestibular diagnoses ![Interacoustics Test Findings with Vestibular Diagnoses.pdf](../assets/Interacoustics_Test_Findings_with_Vestibular_Diagnoses_1639518270575_0.pdf)
