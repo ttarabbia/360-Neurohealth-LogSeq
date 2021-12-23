@@ -12,12 +12,3 @@
   | Exophoria  | -   | -|  -| covered eye moves inward when uncovered |
   | Hyperphoria| -   | - | -|  covered eye moves down when uncovered |
   |Hypophoria| -  | -|  -| covered eye moves up when uncovered |
-	- Associated Treatments
-	  heading:: true
-	  background-color:: #264c9b
-	- Associated Impairments
-	  background-color:: #264c9b
-	  heading:: true
-	- Associated Diagnoses
-	  background-color:: #264c9b
-	  heading:: true

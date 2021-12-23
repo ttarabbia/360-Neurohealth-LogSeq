@@ -3,11 +3,9 @@
 	- Ask the patient to look at the center target for 10 seconds, then look to the right (their right) for 20 seconds and back to center (5 to 10 seconds) before moving their eyes to the left target and hold for 20 seconds.
 	- Repeat in the vertical plane
 - # Images/ Diagrams/ Videos
+	-
+	  <p><a href="https://www.360neurohealth.com/courses/certificate-of-competency-in-vestibular-rehabilitation-course-ccvr/lectures/36795242?wvideo=xx70d4pewv"><img src="https://embed-ssl.wistia.com/deliveries/f168ff3df5238ff7a2d2fdfe88fbfc36b87e8d11.jpg?image_crop_resized=800x450&amp;image_play_button_size=2x&amp;image_play_button=1&amp;image_play_button_color=1A9DCEe0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.360neurohealth.com/courses/certificate-of-competency-in-vestibular-rehabilitation-course-ccvr/lectures/36795242?wvideo=xx70d4pewv">Lab Demo Videos | 360 Neuro Health</a></p>
 - # Interpretation
--
-- A “Normal” test is that no nystagmus is observed. An “Abnormal” finding if nystagmus is observed.
-- Specify nystagmus that changes directions vs nystagmus that follows Alexander’s Law**. All forms of gaze evoked nystagmus are considered central in nature – specifically from the brainstem or cerebellum but most commonly from a lesion in the cerebellar flocculus.
-- Remember: it is important to differentiate GEN from endpoint (beyond 30 degrees) and a “leak-through” spontaneous nystagmus which is peripheral, vestibular in nature and follows Alexander’s Law (for example: right beating nystagmus present in right gaze only).
--
-  <p><a href="https://www.360neurohealth.com/courses/certificate-of-competency-in-vestibular-rehabilitation-course-ccvr/lectures/36795242?wvideo=xx70d4pewv"><img src="https://embed-ssl.wistia.com/deliveries/f168ff3df5238ff7a2d2fdfe88fbfc36b87e8d11.jpg?image_crop_resized=800x450&amp;image_play_button_size=2x&amp;image_play_button=1&amp;image_play_button_color=1A9DCEe0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.360neurohealth.com/courses/certificate-of-competency-in-vestibular-rehabilitation-course-ccvr/lectures/36795242?wvideo=xx70d4pewv">Lab Demo Videos | 360 Neuro Health</a></p>
--
+	- A “Normal” test is that no nystagmus is observed. An “Abnormal” finding if nystagmus is observed.
+	- Specify nystagmus that changes directions vs nystagmus that follows Alexander’s Law**. All forms of gaze evoked nystagmus are considered central in nature – specifically from the brainstem or cerebellum but most commonly from a lesion in the cerebellar flocculus.
+	- Remember: it is important to differentiate GEN from endpoint (beyond 30 degrees) and a “leak-through” spontaneous nystagmus which is peripheral, vestibular in nature and follows Alexander’s Law (for example: right beating nystagmus present in right gaze only).
