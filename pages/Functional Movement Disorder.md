@@ -22,6 +22,7 @@ alias:: functional neurological disorder, FMD, FND
 				- ![HowDoIExplainaFMD_StoneHoeritzauer_2019.pdf](../assets/HowDoIExplainaFMD_StoneHoeritzauer.2019_(1)_1639700160570_0.pdf)
 			- Evidence for improvement of patients with FND/FMD with outpatient physical therapy
 				- ![Outpatient PT for FND_Maggio_2019.pdf](../assets/Outpatient_PT_for_FMD_Maggio_et_al.2019_(1)_1639700166767_0.pdf)
+			- Review of management strategies for FMD including diagnostic discussion, ger
 			- ![Managment of FND_Gilmour_2020pdf](../assets/Managment_of_FND_Gilmour_et_al.2020_1639700184979_0.pdf)
 	- **Patient Resources**
 		- https://www.neurosymptoms.org/en_GB/
