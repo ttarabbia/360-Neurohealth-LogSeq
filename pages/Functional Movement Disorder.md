@@ -12,9 +12,9 @@
   heading:: true
 	- **Therapist Resources**
 		- Research articles
-			- History and Physical exam findings in FMD [[functional neurological disorder]], [[functional gait disorder]]
+			- History and Physical exam findings in FMD
 				- ![FMD_Clinical Presentations_Hallett_2016.pdf](../assets/FMD_Clinical_Presentations_Hallett.2016-2017_1639700145345_0.pdf)
-			-
+			- Challenges in diagnosing FMD, tips for identifying FMD, communicating with patients with FMD
 				- ![FND_Opinion Paper_Kompoliti_2017.pdf](../assets/FND_Opinion_Paper_Kompoliti.2017_1639700154921_0.pdf)
 					- ((61c3c3b3-dcaf-4866-a6cb-348298c6fedd))
 			- ![HowDoIExplainaFMD_StoneHoeritzauer_2019.pdf](../assets/HowDoIExplainaFMD_StoneHoeritzauer.2019_(1)_1639700160570_0.pdf)
