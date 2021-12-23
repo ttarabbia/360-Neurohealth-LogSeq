@@ -1,3 +1,7 @@
+- # Instructions
+- # Images/ Diagrams/ Videos
+- # Interpretation
+-
 - Keep patient’s head stationary. Patient looks straight ahead. Observe for nystagmus.
 - Record as “negative” for normal or “positive” if nystagmus noted. If present, describe the characteristics:
 	- [[Shape]]
