@@ -1,4 +1,7 @@
-- Clinical Tests
+- # Clarifying Subjective Questions
+- # Associated Impairments/Diagnoses
+  heading:: true
+# Associated Treatments
 - Associated Treatments
   background-color:: #264c9b
   heading:: true
