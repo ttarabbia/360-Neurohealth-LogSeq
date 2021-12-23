@@ -2,7 +2,6 @@
 - ### [[Vestibular Diagnostic Tests]]
   heading:: true
 - #### [[Clinical Tests]]
-- [[Symptoms]]
-- [[Treatments]]
-- [[Vestibular Anatomy]]
-- #### [[Treatments]]
+- ### [[Symptoms]]
+- ### [[Treatments]]
+- ### [[Vestibular Anatomy]]
