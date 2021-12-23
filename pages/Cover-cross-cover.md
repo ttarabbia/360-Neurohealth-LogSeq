@@ -1,12 +1,11 @@
 alias:: alternating cover test, cover cross cover test
 
+- For this test, the examiner occludes one eye and then the other, switching the occluder back and forth to occlude the eyes without allowing the patient to fuse in between occlusion
+- The alternate cover test is the most dissociative cover test and measures a total deviation, including the tropic plus the phoric/latent component.
 - # Instructions
 	- The alternate cover test is performed after the single cover test.
 	- While patient is in sitting and head is stationary, ask the patient to look at a target then cover one eye and keep covered for 3 seconds.
 	- Move the occluder to the opposite eye and do this several times back and forth – every 3 seconds while allowing the eye to take up fixation on the target.
-	- For this test, the examiner occludes one eye and then the other, switching the occluder back and forth to occlude the eyes without allowing the patient to fuse in between occlusion
-	- The alternate cover test is the most dissociative cover test and measures a total deviation, including the tropic plus the phoric/latent component.
-	- When performing the alternate cover test it is important to hold the occluder over each eye for at least a few seconds, in order to allow the non-occluded eye enough time to pick up fixation.
 	- Note: ideally, the examiner would also position themselves in a manner that allows him/her to view the eye behind the occluder and observe the response of the eye when it is covered.
 - # Images/ Diagrams/ Videos
 	-
