@@ -1,0 +1,8 @@
+title:: hls__FND_Opinion_Paper_Kompoliti.2017_1639700154921_0
+file-path:: ../assets/FND_Opinion_Paper_Kompoliti.2017_1639700154921_0.pdf
+file:: [FND_Opinion_Paper_Kompoliti.2017_1639700154921_0.pdf](../assets/FND_Opinion_Paper_Kompoliti.2017_1639700154921_0.pdf)
+
+- Tips for Identifying Functional Movement DisordersAs functional movement disorders are increasingly a positive diagnosis rather than a diagnosis of exclusion, neu-rologists should be aware of the signs and symptoms that may contribute. Below are the traditional points that can help clue you in to a presentation of a functional move-ment disorder. Some of these you may see with traditional movement disorders, but when you put them all together they signal a functional movement disorder:• Onset is often abrupt, with patient achieving maximal disability shortly thereafter• Patients are normal in between flare-ups and have spon-taneous remissions• Movement disorder increases with attention and decreases with distraction• Slowness, when present, has a deliberate quality. Changes in tremor frequency and amplitude are prominent• Functional disability is sometimes out of proportion with physical examination• The disorder is difficult to classify and doesn’t follow tra-ditional anatomy or nosology of movement disorders• The disorder can be unresponsive to multiple medications
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 61c3c21f-ddf9-4208-ac5b-6b8a06ead338
