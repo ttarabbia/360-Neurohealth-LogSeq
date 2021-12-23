@@ -12,7 +12,7 @@
   heading:: true
 	- **Therapist Resources**
 		- Research articles
-			- [[functional neurological disorder]], [[functional gait disorder]]
+			- History and Physical examFunctional movement disorders [[functional neurological disorder]], [[functional gait disorder]]
 				- ![FMD_Clinical Presentations_Hallett_2016.pdf](../assets/FMD_Clinical_Presentations_Hallett.2016-2017_1639700145345_0.pdf)
 			- ![FND_Opinion Paper_Kompoliti_2017.pdf](../assets/FND_Opinion_Paper_Kompoliti.2017_1639700154921_0.pdf)
 				- ((61c3c3b3-dcaf-4866-a6cb-348298c6fedd))
