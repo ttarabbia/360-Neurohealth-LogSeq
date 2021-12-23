@@ -12,4 +12,6 @@ alias:: alternating cover test, cover cross cover test
 	- Youtube video demonstration of cover-uncover and cover-cross-cover tests: https://www.youtube.com/watch?v=TxEQWtlXtrI
 	- ![image.png](../assets/image_1639600256163_0.png)
 - # Interpretation
+	- Note if the eye that was uncovered remains stationary or moves inward (exophoria), moves outward (esophoria), moves upward (hypophoria), or moves downward (hyperphoria).
+	  • Record as “Normal” if the eye remains stationary
 	- In general, the faster the eyes can recover when the occluder is switched, the better the control of the deviation.
