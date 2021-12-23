@@ -3,10 +3,8 @@
   heading:: true
 - #### [[Clinical Tests]]
 - [[Symptoms]]
-  <<<<<<< HEAD
 - [[Treatments]]
 - [[Vestibular Anatomy]]
-  =======
 - #### [[Treatments]]
 - ## [[Vestibular anatomy]]
   collapsed:: true
