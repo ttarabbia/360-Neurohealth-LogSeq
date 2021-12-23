@@ -11,7 +11,8 @@ Alias:: Single Cover, Single cover test, cover uncover, cover-uncover test
 	- Youtube video demonstration of cover-uncover and cover-cross-cover tests: https://www.youtube.com/watch?v=TxEQWtlXtrI
 	- ![image.png](../assets/image_1639600236523_0.png)
 - # Interpretation
-	- Note if the uncovered eye remains stationary or moves:
+	- If a tropia is present in the non-occluded (uncovered) eye, the examiner will observe the uncovered eye move to pick up fixation when the fixing eye is occluded (covered).
+	- Note if the uncovered eye moves:
 		- inward (exotropia)
 		- moves outward (esotropia)
 		- moves upward (hypotropia)
