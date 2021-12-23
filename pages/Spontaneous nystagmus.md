@@ -8,5 +8,5 @@
 	- [[Intensity]]
 	- [[fixation]]
 - [[Peripheral vestibular nystagmus]] typically horizontal, decreases with fixation, increases when patient looks in direction of the fast phase
-- Note: [[congenital nystagmus]] will typically increase w/fixation; decrease with convergence and there is typically a “null” point (an area the patient can look and stop the nystagmus).
+- [[Congenital nystagmus]] will typically increase w/fixation; decrease with convergence and there is typically a “null” point (an area the patient can look and stop the nystagmus).
 - ![image.png](../assets/image_1639601232446_0.png) (Dr. Bogle, 2019)
