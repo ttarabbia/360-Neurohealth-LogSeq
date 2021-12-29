@@ -22,7 +22,9 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 		- [[Positional vertigo]]
 		- [[Visually induced dizziness]]
 		- [[Imbalance]]
-	- Otologic symptoms- typically mild and transient
+	- Associated cervical spine symptoms
+		- neck pain, stiffness, spasming
+	- Otologic symptoms- typically mild and transient, less common
 		- tinnitus, aural pressure, hearing disturbances (can have mild, bilateral high-frequency hearing loss)
 		-
 - # Clinical Tests
@@ -37,7 +39,7 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 		- [[positional nystagmus]] may be seen in positional testing
 	- [[Audiogram]]
 		- Rule out other causes of episodic vertigo symptoms including [[Meniere's disease]] which would cause low frequency hearing loss
-		- Vestibular migraine can be associated with mild, bilateral high frequency
+		- Vestibular migraine can be associated with mild, bilateral sensorineural high frequency hearing loss
 - # Treatments
 - # Resources
   heading:: true
