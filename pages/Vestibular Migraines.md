@@ -36,7 +36,8 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 		- may see abnormal oculomotor findings including saccadic intrusions in smooth pursuit and slowed or inaccurate saccades
 		- [[positional nystagmus]] may be seen in positional testing
 	- [[Audiogram]]
-		- Rule out other causes of symptoms including Meniere's disease (low frequency hearing loss )which can also cause episodic vertigo
+		- Rule out other causes of episodic vertigo symptoms including [[Meniere's disease]] which would cause low frequency hearing loss
+		- Vestibular migraine can be associated with mild, bilateral high frequency
 - # Treatments
 - # Resources
   heading:: true
