@@ -9,5 +9,5 @@
 - # Resources
   heading:: true
 	- **Therapist Resources**
-		- ![CPG Menieres Disease.pdf](../assets/CPG_Menieres_Disease_1639699289846_0.pdf)
+		- ![CPG Menieres Disease_Basura_2020.pdf](../assets/CPG_Menieres_Disease_1639699289846_0.pdf)
 	- **Patient Resources**
