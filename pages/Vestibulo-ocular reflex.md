@@ -1,3 +1,4 @@
 alias:: VOR, vestibular ocular reflex
 
-- Rotational
+- Rotational VOR
+	- produces eye movement in response to horizontal, vertical, or torsional head movements
