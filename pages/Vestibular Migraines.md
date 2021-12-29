@@ -11,8 +11,7 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 			- No other explanation
 			- ((61cbbbea-4f47-4b54-93e4-aadc8125a954))
 		- Proposed pathophysiology
-			- ((61cbc013-ce79-4c8a-8818-472d9b15f269))
-			-
+			- ((61cbc013-ce79-4c8a-8818-472d9b15f269)) [Dieterich, J Neurol 2016]
 - # History/Symptoms
   heading:: true
 	- Past history of migraines
