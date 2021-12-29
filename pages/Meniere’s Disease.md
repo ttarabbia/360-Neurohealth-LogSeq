@@ -1,7 +1,9 @@
 - # Summary
   heading:: true
+	- Caused by endolymph
 - # History/Symptoms
   heading:: true
+	- Episodes of vertigo lasting 20 minutes to 12 hours
 - # Clinical Tests
   heading:: true
 - # Diagnostic Tests
