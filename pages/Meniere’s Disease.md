@@ -8,8 +8,10 @@
 			- Other causes excluded by other tests
 		- Probable Meniere's Disease ((61cbc887-944f-4c3e-a5d0-b34bf7a05f01))
 			- At least 2 episodes of vertigo or dizziness lasting 20 minutes to 24 hours
-			- Fluctuating aural symptoms (hearing loss, tinnitus,or fullness) in the affected ear
+			- Fluctuating aural symptoms (hearing loss, tinnitus, or fullness) in the affected ear
 			- Other causes excluded by other tests
+	- Etiology
+		- unknown, associated with endolymphatic hydrops or changes in the inner ear fluid voumes
 	-
 - # History/Symptoms
   heading:: true
