@@ -13,8 +13,8 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 - # History/Symptoms
   heading:: true
 	- Past history of migraines
-		-
 	- Episodic- 5 minutes to 72 hours, per diagnostic criteria
+		- migraine related symptoms of headache, photophobia and phonophobia may occur before or after vestibular symptoms
 	- Vestibular symptoms
 		- [[Spontaneous vertigo]]
 		- [[Positional vertigo]]
