@@ -9,6 +9,7 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 			- Each episode lasting 5 minute  to 72 hours
 			- at least 50% of these episodes involve ≥1 migrainous symptom(headache, photophobia & phonophobia, or visual aura)
 			- No other explanation
+			- ((61cbbbea-4f47-4b54-93e4-aadc8125a954))
 - # History/Symptoms
   heading:: true
 - # Clinical Tests
