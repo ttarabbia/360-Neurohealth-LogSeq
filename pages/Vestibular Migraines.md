@@ -12,6 +12,7 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 			- ((61cbbbea-4f47-4b54-93e4-aadc8125a954))
 - # History/Symptoms
   heading:: true
+	-
 - # Clinical Tests
   heading:: true
 - # Diagnostic Tests
