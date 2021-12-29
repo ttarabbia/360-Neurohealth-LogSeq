@@ -4,7 +4,7 @@
 - [[BPPV]]
 - [[Bilateral Vestibular Loss]]
 - [[Vestibular Schwannoma]]
-- [[Vestibular migraine]]
+- [[Vestibular Migraine]]
 - [[Functional Movement Disorder]]
 - [[Concussion]]
 - [[Mal de Debarquement Syndrome]]

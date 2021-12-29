@@ -1,6 +1,7 @@
 - # Summary
   heading:: true
-	- [[Diagnostic Criteria]] Established by American Academy of Otolaryngology–Head and Neck Surgery and revised by Classification Committee of the Barany Society [Basura_Otolaryngology–Head and Neck Surgery]
+	- [[Diagnostic Criteria]] Established by American Academy of Otolaryngology–Head and Neck Surgery and revised by Classification Committee of the Barany Society [Basura, Otolaryngology–Head and Neck Surgery 2020]
+		- Definie
 	-
 - # History/Symptoms
   heading:: true
