@@ -20,6 +20,9 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 		- [[Positional vertigo]]
 		- [[Visually induced dizziness]]
 		- [[Imbalance]]
+	- Otologic symptoms- typically mild and transient
+		- tinnitus, aural pressure, hearing disturbances
+		-
 - # Clinical Tests
   heading:: true
 - # Diagnostic Tests
