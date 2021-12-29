@@ -25,6 +25,9 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 		-
 - # Clinical Tests
   heading:: true
+	- Clinical testing may be normal between episodes
+	- Oculomotor
+		- saccadic intrusions,
 - # Diagnostic Tests
   heading:: true
 - # Treatments
