@@ -10,6 +10,8 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 			- at least 50% of these episodes involve ≥1 migrainous symptom(headache, photophobia & phonophobia, or visual aura)
 			- No other explanation
 			- ((61cbbbea-4f47-4b54-93e4-aadc8125a954))
+		- Proposed pathophysiology
+			- In  summary,  migraine-related  vestibular  disorders  likeVM  may  be  caused  by  enhanced  excitability  occurringduring the processing of sensory information, which is dueto a genetic susceptibility. The enhanced excitation inducesinteractions  of  vestibular  and  pain  pathways  on  severallevels, from the inner ear to the thalamus and cortical level.
 - # History/Symptoms
   heading:: true
 	- Past history of migraines
