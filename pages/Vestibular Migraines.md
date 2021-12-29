@@ -26,8 +26,8 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 - # Clinical Tests
   heading:: true
 	- Clinical testing may be normal between episodes
-	- Oculomotor
-		- saccadic intrusions, positional nystagmus, slow and inaccurate saccades m
+	- [[Oculomotor]]
+		- saccadic intrusions, positional nystagmus, slow and inaccurate saccades may be seen
 - # Diagnostic Tests
   heading:: true
 - # Treatments
