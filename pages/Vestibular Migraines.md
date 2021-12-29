@@ -13,9 +13,10 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 - # History/Symptoms
   heading:: true
 	- Past history of migraines
-	- Episodes of spontaneous vertigo
+	- Episodes of spontaneous vertigo- 5 minutes to 72 hours, per diagnostic criteria
 	- [[Positional vertigo]]
-	- Visually induced dizziness and vertigo
+	- [[Visually induced dizziness]]
+	- Imbalance
 - # Clinical Tests
   heading:: true
 - # Diagnostic Tests
