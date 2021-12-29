@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "61cbbabc-8182-406b-8e2e-b9c63a7da258", :page 2, :position {:bounding {:x1 100.67708587646484, :y1 71.08333778381348, :x2 267.26924896240234, :y2 82.41666603088379, :width 714.3312, :height 949.0391999999999}, :rects ({:x1 100.67708587646484, :y1 71.08333778381348, :x2 267.26924896240234, :y2 82.41666603088379, :width 714.3312, :height 949.0391999999999}), :page 2}, :content {:text "Vestibular migraine diagnostic criteria ["}, :properties {:color "yellow"}}]}
