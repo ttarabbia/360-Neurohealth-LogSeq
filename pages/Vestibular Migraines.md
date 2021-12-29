@@ -11,7 +11,8 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 			- No other explanation
 			- ((61cbbbea-4f47-4b54-93e4-aadc8125a954))
 		- Proposed pathophysiology
-			- In  summary,  migraine-related  vestibular  disorders  likeVM  may  be  caused  by  enhanced  excitability  occurringduring the processing of sensory information, which is dueto a genetic susceptibility. The enhanced excitation inducesinteractions  of  vestibular  and  pain  pathways  on  severallevels, from the inner ear to the thalamus and cortical level.
+			- ((61cbc013-ce79-4c8a-8818-472d9b15f269))
+			-
 - # History/Symptoms
   heading:: true
 	- Past history of migraines
