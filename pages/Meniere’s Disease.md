@@ -13,7 +13,7 @@
 	-
 - # History/Symptoms
   heading:: true
-	- Episodes of vertigo lasting 20 minutes to 12 hours
+	- Episodes of vertigo lasting 20 minutes to 12 hours and may spread from months to years
 - # Clinical Tests
   heading:: true
 - # Diagnostic Tests
