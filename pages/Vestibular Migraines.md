@@ -1,3 +1,5 @@
+alias:: migraine associated vertigo, MAV, migran
+
 - # Summary
   heading:: true
 	- [[Diagnostic Criteria]]
