@@ -20,6 +20,6 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
   heading:: true
 	- **Therapist Resources**
 		- [[Diagnostic Criteria]]
-			- ![Vestibular migraine the most frequent entity of episodic vertigo.pdf](../assets/Vestibular_migraine_the_most_frequent_entity_of_episodic_vertigo_1639699308935_0.pdf)
-			- [Vestibular Migraine Diagnostic Criteria.pdf](../assets/Vestibular_Migraine_Diagnostic_Criteria_1639521076649_0.pdf)
+			- ![Vestibular migraine the most frequent entity of episodic vertigo_Dieterich_2016.pdf](../assets/Vestibular_migraine_the_most_frequent_entity_of_episodic_vertigo_1639699308935_0.pdf)
+			- [Vestibular Migraine Diagnostic Criteria_Lempert_2012.pdf](../assets/Vestibular_Migraine_Diagnostic_Criteria_1639521076649_0.pdf)
 	- **Patient Resources**
