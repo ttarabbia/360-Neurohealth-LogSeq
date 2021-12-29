@@ -11,8 +11,8 @@
 	- [[Head thrust test]]
 	- [[Dynamic visual acuity test]]
 	- [[VOR suppression test]]
-- Static balance
-- Dynamic Balance and Gait
+- [[Static balance]]
+- [[Dynamic Balance and Gait]]
 - Cervical Spine
 - Positional testing
 	- [[Dix-hallpike test]]
