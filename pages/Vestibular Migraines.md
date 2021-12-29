@@ -3,7 +3,7 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 - # Summary
   heading:: true
 	- [[Diagnostic Criteria]]
-		- From consensus document of the Barany Society and the International Headache Society [Vestibular Migraine Diagnostic Criteria.pdf](../assets/Vestibular_Migraine_Diagnostic_Criteria_1639521076649_0.pdf) [Lempert, J Vestib Res 2012]
+		- From consensus document of the Barany Society and the International Headache Society [Lempert, J Vestib Res 2012] ![Vestibular Migraine Diagnostic Criteria.pdf](../assets/Vestibular_Migraine_Diagnostic_Criteria_1639521076649_0.pdf)
 			- current or previous migraine with or without aura
 			- ≥5 episodes of vestibular symptoms of moderate or severe intensity
 			- Each episode lasting 5 minute  to 72 hours
