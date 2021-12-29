@@ -1,4 +1,4 @@
-alias:: migraine associated vertigo, MAV, migran
+alias:: migraine associated vertigo, MAV, migrainous vertigo,
 
 - # Summary
   heading:: true
