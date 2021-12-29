@@ -1,5 +1,6 @@
 - # Summary
   heading:: true
+	- [[Diagnostic Criteria]] per merican Academy of Otolaryngology–Head and Neck Surgery
 	-
 - # History/Symptoms
   heading:: true
