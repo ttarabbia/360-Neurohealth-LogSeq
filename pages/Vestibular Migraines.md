@@ -24,7 +24,7 @@ alias:: migraine associated vertigo, MAV, migrainous vertigo,
 		- [[Imbalance]]
 	- Associated cervical spine symptoms
 		- neck pain, stiffness, spasming
-	- Otologic symptoms- typically mild and transient, less common
+	- [[Otologic symptoms]]- typically mild and transient, less common
 		- tinnitus, aural pressure, hearing disturbances (can have mild, bilateral high-frequency hearing loss)
 		-
 - # Clinical Tests
