@@ -10,6 +10,9 @@
 - # Diagnostic Tests
   heading:: true
 - # Treatments
+	- Conservative treatment is warranted if there is no significant hearing loss and consists of pharmaceutical management similar to Meniere’s Disease
+	- Vestibular therapy to address dizziness and/or balance problems
+	- Surgery may be indicated as well as a referral to vestibular therapy for residual symptoms post-op.
 - # Resources
   heading:: true
 	- **Therapist Resources**
