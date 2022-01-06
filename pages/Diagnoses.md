@@ -1,13 +1,14 @@
 - [[Vestibular Neuritis/Labyrinthitis]]
-- [[Meniere’s Disease]]
-- [[Superior semicircular canal dehiscence]]
-- [[BPPV]]
-- [[Bilateral Vestibular Loss]]
-- [[Vestibular Schwannoma]]
-- [[Vestibular Migraine]]
-- [[Functional Movement Disorder]]
-- [[Concussion]]
-- [[Mal de Debarquement Syndrome]]
-- [[Persistent Postural-Perceptual Dizziness]]
--
--
+	- [[Meniere’s Disease]]
+	- [[Superior semicircular canal dehiscence]]
+	- [[BPPV]]
+	- [[Bilateral Vestibular Loss]]
+	- [[Vestibular Schwannoma]]
+	- [[Vestibular Migraine]]
+	- [[Functional Movement Disorder]]
+	- [[Concussion]]
+	- [[Mal de Debarquement Syndrome]]
+	- [[Persistent Postural-Perceptual Dizziness]]
+- Resources
+  heading:: true
+	-
