@@ -11,4 +11,4 @@
 	- [[Persistent Postural-Perceptual Dizziness]]
 - Resources
   heading:: true
-	-
+	- ![Dizziness Differential Diagnosis Algorithm.pdf](../assets/Dizziness_Differential_Diagnosis_Algorithm_1641513243696_0.pdf)
