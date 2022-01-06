@@ -2,7 +2,7 @@ alias:: acoustic neuroma
 
 - # Summary
   heading:: true
-	- A nonmalignant tumor on the VIIIth cranial nerve. Symptoms usually start with unilateral tinnitus and/or hearing loss then progress to dizziness/unsteadiness.  Treatment options include monitoring, radiation or surgical removal. Withradiation or surgery, referral for vestibular rehabilitation to address the residual effects of dizziness, unsteadiness and, in some cases, facial paralysis isbeneficial.
+	- A nonmalignant tumor on the VIIIth cranial nerve. Symptoms usually start with unilateral tinnitus and/or hearing loss then progress to dizziness/unsteadiness.
 - # History/Symptoms
   heading:: true
 - # Clinical Tests
@@ -12,7 +12,7 @@ alias:: acoustic neuroma
 	- Audiogram
 	- VNG
 	- ABR
-	-
+	- Imaging of the internal auditory canal
 - # Treatments
 - # Resources
   heading:: true
