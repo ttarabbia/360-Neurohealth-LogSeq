@@ -1,6 +1,6 @@
 - # Summary
   heading:: true
-	-
+	- [[Diagnostic Criteria]]
 	- Etiology
 		- unknown, associated with endolymphatic hydrops or changes in the inner ear fluid voumes
 	-
