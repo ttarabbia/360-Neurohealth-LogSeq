@@ -28,9 +28,14 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis, neuronitis, vesitbular neu
 -
 - # Diagnostic Tests
   heading:: true
+	- VNG
 - # Treatments
 	- In the acute phases, pharmaceutical intervention is often needed (vestibular suppressants and anti-nausea medication).
-	- Steroids can be helpful especially with acute hearing loss.
+	- Steroids can be helpful especially with acute hearing loss
+	- Vestibular therapy to address:
+		- VOR dysfunction
+		- Static balance emphasizing use of vestibular inputs
+		- Dynamic balance integrating head motion
 	-
 - # Resources
   heading:: true
