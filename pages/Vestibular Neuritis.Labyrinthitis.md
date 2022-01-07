@@ -15,8 +15,8 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis, neuronitis, vesitbular neu
 	- Labyrinthitis- accompanied by sudden hearing loss, neuritis- no hearing loss
 - # Clinical Tests
   heading:: true
-- [[Head thrust test]] pos
-- 3 line or greater loss on [[Dynamic visual acuity test]] if patients has uncompensated vestibular
+- [[Head thrust test]] positive to the involved side
+- [[Dynamic visual acuity test]] 3 line or greater loss and symptom reproduction (if patients has uncompensated [[vor]] dysfunction)
 - # Diagnostic Tests
   heading:: true
 - # Treatments
