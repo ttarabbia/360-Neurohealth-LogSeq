@@ -3,15 +3,15 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis, neuronitis, vesitbular neu
 
 - # Summary
   heading:: true
-	- Vestibular neuritis is caused by an inner ear infection that causes inflammation to the vestibular nerve.
+	- Vestibular neuritis is caused by an inner ear infection that causes inflammation to the vestibular nerve
 	- Labyrinthitis presents similarly to a vestibular neuritis but with hearing loss caused by inflammatory response to the inner ear as a whole or both branches of the vestibulocochlear nerve
-	- Infection is typically viral, suspected
-	- Inner ear infections are single events >95% of the time.
+	- Infection is typically viral and rarely bacterial
+	- Inner ear infections are single events >95% of the time
 - # History/Symptoms
   heading:: true
 	- Sudden onset of acute vertigo, unsteadiness, nausea and often vomiting.
 	- Acute onset typically lasting days
-	- Following the resolution of acute vertigo symptoms, patients
+	- Following the resolution of acute vertigo symptoms, patients typically have residual sym
 	- Labyrinthitis- accompanied by sudden hearing loss, neuritis- no hearing loss
 - # Clinical Tests
   heading:: true
