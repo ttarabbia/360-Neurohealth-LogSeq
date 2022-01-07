@@ -1,2 +1,2 @@
-- [[meniere's disease]]
+- [[Diagnostic Criteria of Meniere's disease]]
 -
