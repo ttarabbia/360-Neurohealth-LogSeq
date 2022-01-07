@@ -22,7 +22,9 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis, neuronitis, vesitbular neu
 - [[Head thrust test]] positive to the involved side
 - [[Dynamic visual acuity test]] 3 line or greater loss and symptom reproduction (if patients has uncompensated [[VOR]] dysfunction)
 - [[Static balance]]
-	- impaired use of vest
+	- impaired use of vestibular inputs (unstable surface with eyes closed)
+- [[Dynamic Balance]]
+	- laterl
 -
 - # Diagnostic Tests
   heading:: true
