@@ -11,7 +11,8 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis, neuronitis, vesitbular neu
   heading:: true
 	- Sudden onset of acute vertigo, unsteadiness, nausea and often vomiting.
 	- Acute onset typically lasting days
-	- Labyrinthitis- accompanied by hearing loss, neuritis- no hearing loss
+	- Following the resolution of acute vertigo symptoms, patients
+	- Labyrinthitis- accompanied by sudden hearing loss, neuritis- no hearing loss
 - # Clinical Tests
   heading:: true
 - # Diagnostic Tests
