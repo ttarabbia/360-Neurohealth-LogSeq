@@ -3,7 +3,7 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis
 
 - # Summary
   heading:: true
-	- Inner ear infections are single events >95% of the time.
+	- Inner ear infection that causes inflammation to the vestibular nerve ()Inner ear infections are single events >95% of the time.
 - # History/Symptoms
   heading:: true
 	- Sudden onset of acute vertigo, unsteadiness, nausea and often vomiting.
