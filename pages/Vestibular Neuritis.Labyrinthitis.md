@@ -24,7 +24,7 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis, neuronitis, vesitbular neu
 - [[Static balance]]
 	- impaired use of vestibular inputs (unstable surface with eyes closed)
 - [[Dynamic Balance]]
-	- laterl
+	- lateral deviations with addition of head turns to gait during [[FGA]], [[DGI]], [[4-item DGI]]
 -
 - # Diagnostic Tests
   heading:: true
