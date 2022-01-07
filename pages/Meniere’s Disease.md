@@ -1,5 +1,6 @@
 - # Summary
   heading:: true
+	-
 	- Etiology
 		- unknown, associated with endolymphatic hydrops or changes in the inner ear fluid voumes
 	-
