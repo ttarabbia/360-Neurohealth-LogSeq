@@ -5,6 +5,7 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis, neuronitis, vesitbular neu
   heading:: true
 	- Vestibular neuritis is caused by an inner ear infection that causes inflammation to the vestibular nerve.
 	- Labyrinthitis presents similarly to a vestibular neuritis but with hearing loss caused by inflammatory response to the inner ear as a whole or both branches of the vestibulocochlear nerve
+	- Infection is typically viral, suspected
 	- Inner ear infections are single events >95% of the time.
 - # History/Symptoms
   heading:: true
