@@ -16,11 +16,12 @@ alias:: Vestibular Neuritis, Labyrinthitis, Neuritis, neuronitis, vesitbular neu
 - # Clinical Tests
   heading:: true
 - [[Spontaneous nystagmus]] seen in the acute phase
-	- fast phase away from the affected ear
+	- direction- horizontal, away from the affected ear
 	- increases with fixation removed
-	-
+	- Follow's [[Alexander's law]]
 - [[Head thrust test]] positive to the involved side
 - [[Dynamic visual acuity test]] 3 line or greater loss and symptom reproduction (if patients has uncompensated [[VOR]] dysfunction)
+-
 - # Diagnostic Tests
   heading:: true
 - # Treatments
