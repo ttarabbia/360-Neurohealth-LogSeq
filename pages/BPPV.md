@@ -31,6 +31,7 @@ Alias:: Benign paroxysmal positional vertigo
 	- [[Straight Head Hanging Test]]
 - # Diagnostic Tests
   heading:: true
+	- [[VNG]]
 - # Treatments
 	- Posterior Canal
 		- [[Epley manuever]]
