@@ -6,8 +6,8 @@
   :block/updated-at 1639705440607}
  {:block/name
   "../assets/bedsidetests-vorrelated_kheradmand_and_zee.2012_1640744023821_0.pdf",
-  :block/created-at 1641939840424,
-  :block/updated-at 1641939840424}
+  :block/created-at 1652221702796,
+  :block/updated-at 1652221702796}
  {:block/name
   "../assets/bppv_color_quick_reference_guide_1639699021390_0.pdf",
   :block/created-at 1639705440607,
@@ -25,8 +25,8 @@
   :block/updated-at 1639705440607}
  {:block/name
   "../assets/dizziness_differential_diagnosis_algorithm_1641513243696_0.pdf",
-  :block/created-at 1641939840421,
-  :block/updated-at 1641939840421}
+  :block/created-at 1652221702794,
+  :block/updated-at 1652221702794}
  {:block/name
   "../assets/epley_maneuver_left_flow_diagram_1639693855006_0.pdf",
   :block/created-at 1639705440607,
@@ -72,11 +72,11 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "3pd",
-  :block/created-at 1641939840424,
-  :block/updated-at 1641939840424}
+  :block/created-at 1652221702796,
+  :block/updated-at 1652221702796}
  {:block/name "4-item dgi",
-  :block/created-at 1641939840421,
-  :block/updated-at 1641939840421}
+  :block/created-at 1652221702794,
+  :block/updated-at 1652221702794}
  {:block/name "a",
   :block/created-at 1639705440606,
   :block/updated-at 1639705440607}
@@ -84,8 +84,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "alexander's law",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "alternating cover test",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -93,11 +93,11 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "apogeotropic posterior canal",
-  :block/created-at 1641939840424,
-  :block/updated-at 1641939840424}
+  :block/created-at 1652221702796,
+  :block/updated-at 1652221702796}
  {:block/name "atypical bppv",
-  :block/created-at 1641939840422,
-  :block/updated-at 1641939840422}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "audiogram",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -137,8 +137,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "clinical practice guidelines",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "clinical tests",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -170,8 +170,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "cpg",
-  :block/created-at 1641939840424,
-  :block/updated-at 1641939840424}
+  :block/created-at 1652221702796,
+  :block/updated-at 1652221702796}
  {:block/name "cupulolithiasis",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -182,8 +182,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "dgi",
-  :block/created-at 1641939840421,
-  :block/updated-at 1641939840421}
+  :block/created-at 1652221702794,
+  :block/updated-at 1652221702794}
  {:block/name "diagnoses",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -194,8 +194,8 @@
   :block/created-at 1641515821357,
   :block/updated-at 1641515821393}
  {:block/name "diagnostic testing equipment",
-  :block/created-at 1641939840424,
-  :block/updated-at 1641939840424}
+  :block/created-at 1652221702796,
+  :block/updated-at 1652221702796}
  {:block/name "direction",
   :block/created-at 1639705440606,
   :block/updated-at 1639705440606}
@@ -219,8 +219,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "dynamic balance and gait",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "dynamic visual acuity test",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -246,23 +246,23 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "fga",
-  :block/created-at 1641939840422,
-  :block/updated-at 1641939840422}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "fixation",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "fmd",
-  :block/created-at 1641939840422,
-  :block/updated-at 1641939840422}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "fnd",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "functional movement disorder",
   :block/created-at 1639705440606,
   :block/updated-at 1639705440606}
  {:block/name "functional neurological disorder",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "gaze evoked nystagmus",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -279,19 +279,19 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "hls__cpg_menieres_disease_1639699289846_0",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "hls__fnd_opinion_paper_kompoliti.2017_1639700154921_0",
-  :block/created-at 1641939840421,
-  :block/updated-at 1641939840421}
+  :block/created-at 1652221702794,
+  :block/updated-at 1652221702794}
  {:block/name
   "hls__vestibular_migraine_diagnostic_criteria_1639521076649_0",
-  :block/created-at 1641939840422,
-  :block/updated-at 1641939840422}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name
   "hls__vestibular_migraine_the_most_frequent_entity_of_episodic_vertigo_1639699308935_0",
-  :block/created-at 1641939840422,
-  :block/updated-at 1641939840422}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "home",
   :block/created-at 1639516839789,
   :block/updated-at 1640288754831}
@@ -302,8 +302,8 @@
   :block/created-at 1639705440606,
   :block/updated-at 1639705440606}
  {:block/name "imbalance",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "in-progress",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -311,8 +311,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "interacoustics",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "labyrinthitis",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -323,17 +323,17 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "mav",
-  :block/created-at 1641939840422,
-  :block/updated-at 1641939840422}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "meniere’s disease",
   :block/created-at 1639705440607,
   :block/updated-at 1641517379888}
  {:block/name "migraine associated vertigo",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "migrainous vertigo",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "modified dix-hallpike",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -341,8 +341,8 @@
   :block/created-at 1639705440605,
   :block/updated-at 1639705440605}
  {:block/name "neuronitis",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "now",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -350,8 +350,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "otologic symptoms",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "pen light",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -359,8 +359,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "perilymphatic fistula",
-  :block/created-at 1641939840424,
-  :block/updated-at 1641939840424}
+  :block/created-at 1652221702796,
+  :block/updated-at 1652221702796}
  {:block/name "peripheral vestibular nystagmus",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -368,8 +368,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "positional nystagmus",
-  :block/created-at 1641939840424,
-  :block/updated-at 1641939840424}
+  :block/created-at 1652221702796,
+  :block/updated-at 1652221702796}
  {:block/name "positional vertigo",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -422,8 +422,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "skull-based vibration induced nystagmus",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "smooth pursuit",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -431,8 +431,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "spontaneous vertigo",
-  :block/created-at 1641939840422,
-  :block/updated-at 1641939840422}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "static balance",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -458,8 +458,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "vesitbular neuronitis",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "vestibular anatomy",
   :block/created-at 1639705440607,
   :block/updated-at 1641515498771}
@@ -467,8 +467,8 @@
   :block/created-at 1639517170035,
   :block/updated-at 1639520083192}
  {:block/name "vestibular migraine",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "vestibular migraines",
   :block/created-at 1639520722387,
   :block/updated-at 1639521366696}
@@ -479,14 +479,14 @@
   :block/created-at 1639705440607,
   :block/updated-at 1641515744041}
  {:block/name "vestibular ocular reflex",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "vestibular schwannoma",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "vestibulo-ocular reflex",
-  :block/created-at 1641939840422,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "vestibulothiasis",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -506,11 +506,11 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "vor",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "vor cancellation",
-  :block/created-at 1641939840423,
-  :block/updated-at 1641939840423}
+  :block/created-at 1652221702795,
+  :block/updated-at 1652221702795}
  {:block/name "vor dysfunction",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -521,8 +521,8 @@
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "vorcx",
-  :block/created-at 1641939840421,
-  :block/updated-at 1641939840421}
+  :block/created-at 1652221702794,
+  :block/updated-at 1652221702794}
  {:block/name "wait",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
