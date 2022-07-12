@@ -1,76 +1,12 @@
-[{:block/name "../assets/ac_and_ageo-pc_1639699150229_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "../assets/anterior_canal-apogeo_pc_1639699159441_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/bedsidetests-vorrelated_kheradmand_and_zee.2012_1640744023821_0.pdf",
-  :block/created-at 1652221702796,
-  :block/updated-at 1652221702796}
- {:block/name
-  "../assets/bppv_color_quick_reference_guide_1639699021390_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/bppv_practice_guidelines_aao-hns.2017_1639699140635_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/clinical_characteristics_fmd_yoshida.2020_1639700176966_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "../assets/cpg_menieres_disease_1639699289846_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/dizziness_differential_diagnosis_algorithm_1641513243696_0.pdf",
-  :block/created-at 1652221702794,
-  :block/updated-at 1652221702794}
- {:block/name
-  "../assets/epley_maneuver_left_flow_diagram_1639693855006_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/epley_maneuver_right_flow_diagram_1639693865372_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/fmd_clinical_presentations_hallett.2016-2017_1639700145345_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/fnd_opinion_paper_kompoliti.2017_1639700154921_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/howdoiexplainafmd_stonehoeritzauer.2019_(1)_1639700160570_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/interacoustics_test_findings_with_vestibular_diagnoses_1639518270575_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/managment_of_fnd_gilmour_et_al.2020_1639700184979_0.pdf",
-  :block/created-at 1639705440606,
-  :block/updated-at 1639705440606}
- {:block/name
-  "../assets/outpatient_pt_for_fmd_maggio_et_al.2019_(1)_1639700166767_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/patient_specific_functional_scale_1639700074772_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/vestibular_migraine_diagnostic_criteria_1639521076649_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name
-  "../assets/vestibular_migraine_the_most_frequent_entity_of_episodic_vertigo_1639699308935_0.pdf",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
+[{:block/name "### (expected results included in premium offering)",
+  :block/created-at 1657641989297,
+  :block/updated-at 1657641989297}
+ {:block/name "###(expected results included in premium offering)",
+  :block/created-at 1657642064967,
+  :block/updated-at 1657642064967}
+ {:block/name "(expected results included in premium offering)",
+  :block/created-at 1657642171514,
+  :block/updated-at 1657642201908}
  {:block/name "3pd",
   :block/created-at 1652221702796,
   :block/updated-at 1652221702796}
@@ -133,6 +69,12 @@
  {:block/name "canalithiasis – ampullary arm of canal",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
+ {:block/name "canceled",
+  :block/created-at 1657640759370,
+  :block/updated-at 1657640759370}
+ {:block/name "cancelled",
+  :block/created-at 1657640759370,
+  :block/updated-at 1657640759370}
  {:block/name "card",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -186,7 +128,7 @@
   :block/updated-at 1652221702794}
  {:block/name "diagnoses",
   :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
+  :block/updated-at 1657641132552}
  {:block/name "diagnostic criteria",
   :block/created-at 1639705440607,
   :block/updated-at 1641515787519}
@@ -303,7 +245,7 @@
   :block/updated-at 1639705440606}
  {:block/name "imbalance",
   :block/created-at 1652221702795,
-  :block/updated-at 1652221702795}
+  :block/updated-at 1657641302659}
  {:block/name "in-progress",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -325,6 +267,9 @@
  {:block/name "mav",
   :block/created-at 1652221702795,
   :block/updated-at 1652221702795}
+ {:block/name "meniere's disease",
+  :block/created-at 1657640755888,
+  :block/updated-at 1657640755888}
  {:block/name "meniere’s disease",
   :block/created-at 1639705440607,
   :block/updated-at 1641517379888}
@@ -447,7 +392,7 @@
   :block/updated-at 1639705440607}
  {:block/name "templates",
   :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
+  :block/updated-at 1657642486838}
  {:block/name "todo",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -469,18 +414,18 @@
  {:block/name "vestibular migraine",
   :block/created-at 1652221702795,
   :block/updated-at 1652221702795}
- {:block/name "vestibular migraines",
-  :block/created-at 1639520722387,
-  :block/updated-at 1639521366696}
  {:block/name "vestibular neuritis",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "vestibular neuritis/labyrinthitis",
   :block/created-at 1639705440607,
-  :block/updated-at 1641515744041}
+  :block/updated-at 1657642574593}
  {:block/name "vestibular ocular reflex",
   :block/created-at 1652221702795,
   :block/updated-at 1652221702795}
+ {:block/name "vestibular pattern",
+  :block/created-at 1657641283518,
+  :block/updated-at 1657641283518}
  {:block/name "vestibular schwannoma",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
@@ -512,9 +457,6 @@
   :block/created-at 1652221702795,
   :block/updated-at 1652221702795}
  {:block/name "vor dysfunction",
-  :block/created-at 1639705440607,
-  :block/updated-at 1639705440607}
- {:block/name "vor function",
   :block/created-at 1639705440607,
   :block/updated-at 1639705440607}
  {:block/name "vor suppression test",

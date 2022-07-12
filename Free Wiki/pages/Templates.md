@@ -14,6 +14,16 @@
 	  heading:: true
 		- **Therapist Resources**
 		- **Patient Resources**
+- Clinical Tests- Free Version
+  template:: Clinical Tests- Free Version
+  template-including-parent:: false
+	- # Clinical Tests
+		- ### [[(Expected results included in premium offering)]]
+			- [[Spontaneous nystagmus]]
+			- [[Head thrust test]]
+			- [[Dynamic visual acuity test]]
+			- [[Static balance]]
+			- [[Dynamic Balance]]
 - Symptoms 
   template:: symptoms
   template-including-parent:: false

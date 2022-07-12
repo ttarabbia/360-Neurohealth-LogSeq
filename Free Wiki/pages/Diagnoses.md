@@ -1,16 +1,17 @@
--
+- Peripheral
 	- [[Vestibular Neuritis/Labyrinthitis]]
 	- [[Meniere’s Disease]]
 	- [[Superior semicircular canal dehiscence]]
 	- [[BPPV]]
 	- [[Bilateral Vestibular Loss]]
 	- [[Vestibular Schwannoma]]
+	- [[Perilymphatic Fistula]]
+- Central and Functional
 	- [[Vestibular Migraine]]
-	- [[Functional Movement Disorder]]
 	- [[Concussion]]
 	- [[Mal de Debarquement Syndrome]]
 	- [[Persistent Postural-Perceptual Dizziness]]
-	- [[Perilymphatic Fistula]]
+	- [[Functional Movement Disorder]]
 - Resources
   heading:: true
 	- ![Dizziness Differential Diagnosis Algorithm.pdf](../assets/Dizziness_Differential_Diagnosis_Algorithm_1641513243696_0.pdf)
