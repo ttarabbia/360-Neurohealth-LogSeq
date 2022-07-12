@@ -1,0 +1,2 @@
+- Peripheral vestibular nystagmus follow's Alexander's law (increases when patient looks toward the direction of the fast phase)
+- ![image.png](../assets/image_1639601026243_0.png)

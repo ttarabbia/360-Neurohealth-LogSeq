@@ -1,0 +1,6 @@
+- # Instructions
+	- Ask the patient to take 30 deep but rapid breaths while wearing Frenzel lenses or video goggles.
+- # Images/ Diagrams/ Videos
+- # Interpretation
+	- An abnormal (or positive) response is a nystagmus that beats towards the affected side.
+	- A subtle downbeating nystagmus is expected in 50% of patients w/o pathology

@@ -1,0 +1,10 @@
+- # Instructions
+	- While patient is in sitting and head is stationary, direct the penlight towards the patient’s eyes from 30-50 centimeters (12-20”).
+	- Instruct the patient to look at the light, observe the corneal light reflex from both eyes, while placing your eyes directly behind the penlight.
+	- Note the position of the reflection of the light in both eyes
+- # Images/ Diagrams/ Videos
+	- ![image.png](../assets/image_1639586349446_0.png)
+- # Interpretation
+	- A “Normal” test is when the light is symmetrical and located just within the pupil although it will be slightly nasal to the center of the pupil – approximately 0.5mm from the pupillary axis.
+	- An “Abnormal” test is out of these ranges: In esotropia the light reflects on the lateral aspect of the cornea. In exotropia the light reflects on the medial aspect of the cornea. In hypertropia the light reflects on the inferior aspect of the cornea. In hypotropia the light reflects on the superior aspect of the cornea.
+-
